@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    499376,       8916]
-NotebookOptionsPosition[    492961,       8797]
-NotebookOutlinePosition[    493931,       8830]
-CellTagsIndexPosition[    493861,       8825]
+NotebookDataLength[    538358,       9788]
+NotebookOptionsPosition[    531707,       9665]
+NotebookOutlinePosition[    532676,       9698]
+CellTagsIndexPosition[    532606,       9693]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -110,7 +110,7 @@ Cell[BoxData[{
        RowBox[{"Shortest", "[", "x__", "]"}], "~~", "\"\<\\\" \>\""}], 
       "\[Rule]", "x"}]}], "]"}]}]}]}], "Input",
  CellChangeTimes->{{3.770720642291807*^9, 3.7707206551593695`*^9}},
- CellLabel->"In[24]:=",ExpressionUUID->"ff6c5184-0916-4fc3-ad13-0c697f863196"],
+ CellLabel->"In[1]:=",ExpressionUUID->"ff6c5184-0916-4fc3-ad13-0c697f863196"],
 
 Cell[BoxData[
  RowBox[{"{", 
@@ -133,8 +133,10 @@ Cell[BoxData[
    ",", "\<\"Piye\"\>", ",", "\<\"El-Kurru\"\>", ",", "\<\"Taharqa\"\>", 
    ",", "\<\"Nuri\"\>"}], "}"}]], "Output",
  CellChangeTimes->{3.7707206571916175`*^9, 3.770734480809559*^9, 
-  3.7707346940629196`*^9},
- CellLabel->"Out[26]=",ExpressionUUID->"ec8f4b57-30ba-45ea-a39e-1350fb0ec109"]
+  3.7707346940629196`*^9, 3.7707420054047775`*^9, 3.770745758408446*^9, 
+  3.770755845728671*^9, 3.770757483053808*^9, 3.7707617722531567`*^9, 
+  3.770762014501814*^9},
+ CellLabel->"Out[3]=",ExpressionUUID->"979b883b-9a9e-4a26-b046-6ccff34e71ed"]
 }, Open  ]],
 
 Cell["\<\
@@ -185,7 +187,7 @@ Cell[BoxData[{
    3.7705834716476173`*^9, 3.7705834790079966`*^9}, {3.770583514872421*^9, 
    3.7705835183716183`*^9}, 3.770720773729714*^9, {3.7707218772847795`*^9, 
    3.770721904123803*^9}},
- CellLabel->"In[27]:=",ExpressionUUID->"30b3e766-f3f9-4670-95e2-3fcb12f550d4"],
+ CellLabel->"In[4]:=",ExpressionUUID->"30b3e766-f3f9-4670-95e2-3fcb12f550d4"],
 
 Cell["\<\
 Let us separate the names from locations. Pyramids are usually named after \
@@ -209,7 +211,7 @@ Cell[BoxData[
    3.770583162868178*^9, 3.7705831861393347`*^9}, {3.770583228216807*^9, 
    3.770583258903179*^9}, 3.7705833909202237`*^9, {3.7707221477980576`*^9, 
    3.7707221596508474`*^9}, {3.770722238199689*^9, 3.7707222394518824`*^9}},
- CellLabel->"In[30]:=",ExpressionUUID->"a8bd422c-a1a1-4b3d-ad1d-87f1f10ee3f1"],
+ CellLabel->"In[7]:=",ExpressionUUID->"a8bd422c-a1a1-4b3d-ad1d-87f1f10ee3f1"],
 
 Cell[BoxData[
  RowBox[{"{", 
@@ -221,8 +223,10 @@ Cell[BoxData[
    ",", "\<\"Senusret_II\"\>", ",", "\<\"Amenemhat_III\"\>", 
    ",", "\<\"Khendjer\"\>"}], "}"}]], "Output",
  CellChangeTimes->{3.770722242369255*^9, 3.77073448095916*^9, 
-  3.770734694155674*^9},
- CellLabel->"Out[30]=",ExpressionUUID->"d2a8822f-d2f2-41a5-8325-95dcd7ebd1c3"]
+  3.770734694155674*^9, 3.770742005645135*^9, 3.7707457586650844`*^9, 
+  3.77075584605081*^9, 3.7707574835105877`*^9, 3.770761772541462*^9, 
+  3.770762014695298*^9},
+ CellLabel->"Out[7]=",ExpressionUUID->"36ff1a64-6212-4a30-ab0a-82f105bc1be0"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -234,7 +238,7 @@ Cell[BoxData[
     RowBox[{"2", ",", 
      RowBox[{"Length", "@", "pynamesraw"}], ",", "2"}], "]"}], 
    "\[RightDoubleBracket]"}]}]], "Input",
- CellLabel->"In[31]:=",ExpressionUUID->"e81ac52e-104a-43a4-aeac-d60366088ccb"],
+ CellLabel->"In[8]:=",ExpressionUUID->"e81ac52e-104a-43a4-aeac-d60366088ccb"],
 
 Cell[BoxData[
  RowBox[{"{", 
@@ -245,8 +249,10 @@ Cell[BoxData[
    ",", "\<\"Lisht\"\>", ",", "\<\"Lisht\"\>", ",", "\<\"El-Lahun\"\>", 
    ",", "\<\"Hawara\"\>", ",", "\<\"Saqqara\"\>"}], "}"}]], "Output",
  CellChangeTimes->{3.7707222443062935`*^9, 3.770734481002079*^9, 
-  3.7707346942025456`*^9},
- CellLabel->"Out[31]=",ExpressionUUID->"780a85d7-d3bc-40bb-8aef-ccba687eb477"]
+  3.7707346942025456`*^9, 3.770742005691011*^9, 3.7707457587050695`*^9, 
+  3.770755846110649*^9, 3.7707574836103177`*^9, 3.770761772622246*^9, 
+  3.7707620147242546`*^9},
+ CellLabel->"Out[8]=",ExpressionUUID->"092f4906-76a6-4dcc-bdf0-6510dc3ad2e7"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -259,14 +265,16 @@ Cell[BoxData[
  CellChangeTimes->{{3.7705567161017027`*^9, 3.770556719635353*^9}, {
    3.770556770140185*^9, 3.7705567806969633`*^9}, 3.7705568157542744`*^9, {
    3.7705835870796614`*^9, 3.7705836056509438`*^9}},
- CellLabel->"In[32]:=",ExpressionUUID->"20bbc3e8-0b0b-4c89-aff3-e9b077cafffd"],
+ CellLabel->"In[9]:=",ExpressionUUID->"20bbc3e8-0b0b-4c89-aff3-e9b077cafffd"],
 
 Cell[BoxData[
  RowBox[{"{", 
   RowBox[{"15", ",", "15"}], "}"}]], "Output",
  CellChangeTimes->{3.7707222766301556`*^9, 3.770734481040943*^9, 
-  3.77073469424942*^9},
- CellLabel->"Out[32]=",ExpressionUUID->"71a9af20-e999-45b2-a553-2153509db868"]
+  3.77073469424942*^9, 3.77074200573689*^9, 3.7707457587454414`*^9, 
+  3.7707558461824565`*^9, 3.7707574837010775`*^9, 3.7707617726920595`*^9, 
+  3.770762014752179*^9},
+ CellLabel->"Out[9]=",ExpressionUUID->"b0730fe8-62ca-48d3-9113-7d11ed2388be"]
 }, Open  ]],
 
 Cell["\<\
@@ -288,7 +296,7 @@ Cell[BoxData[
    RowBox[{"WikipediaSearch", "[", "\"\<Djoser\>\"", "]"}], ",", 
    RowBox[{"___", "~~", "\"\<Pyramid\>\"", "~~", "___"}]}], "]"}]], "Input",
  CellChangeTimes->{{3.770646366521576*^9, 3.7706463730669107`*^9}},
- CellLabel->"In[33]:=",ExpressionUUID->"f8abc012-07fd-417b-b42b-b90f34192ab5"],
+ CellLabel->"In[10]:=",ExpressionUUID->"f8abc012-07fd-417b-b42b-b90f34192ab5"],
 
 Cell[BoxData[
  RowBox[{"{", 
@@ -344,8 +352,10 @@ Cell[BoxData[
    RowBox[{"{", "}"}], ",", 
    RowBox[{"{", "}"}]}], "}"}]], "Output",
  CellChangeTimes->{3.770722307577645*^9, 3.77073448713065*^9, 
-  3.770734694665312*^9},
- CellLabel->"Out[33]=",ExpressionUUID->"ba9e4360-1c58-4a08-b1ce-bbda5cda1048"]
+  3.770734694665312*^9, 3.770742010355529*^9, 3.770745763589106*^9, 
+  3.7707558530354424`*^9, 3.7707574891504927`*^9, 3.7707617851969757`*^9, 
+  3.7707620191065235`*^9},
+ CellLabel->"Out[10]=",ExpressionUUID->"b567eaa8-8ce8-4583-b661-c076a0b249a8"]
 }, Open  ]],
 
 Cell["\<\
@@ -371,18 +381,19 @@ Cell[BoxData[
  CellChangeTimes->{{3.7705606046511555`*^9, 3.7705606355832896`*^9}, 
    3.770563386816747*^9, 3.7705634175379906`*^9, 3.770571311500059*^9, {
    3.770571663126679*^9, 3.770571668366418*^9}, 3.7705718620127764`*^9},
- CellLabel->"In[34]:=",ExpressionUUID->"651d2357-bccb-4470-bd58-805169725913"],
+ CellLabel->"In[11]:=",ExpressionUUID->"651d2357-bccb-4470-bd58-805169725913"],
 
 Cell["\<\
 Like before, we look at the source page and try to look for our data and \
 extract it. Doing that for the 15 pyramids and collect the data in a file for \
-further investigation. I stored it in an iconized shape as follows\
+further investigation. I stored it in an iconized shape as follows (added one \
+more pyramid which wasn\[CloseCurlyQuote]t found in the general page)\
 \>", "Text",
  CellChangeTimes->{{3.7705825425190845`*^9, 3.7705826495158105`*^9}, 
    3.7707224884916716`*^9, {3.7707225292137785`*^9, 3.77072254926908*^9}, {
    3.7707226176737304`*^9, 3.7707226367185516`*^9}, 3.7707302764916253`*^9, {
-   3.7707334003886776`*^9, 
-   3.7707334229365478`*^9}},ExpressionUUID->"a60fedde-90aa-4827-9238-\
+   3.7707334003886776`*^9, 3.7707334229365478`*^9}, {3.7707617159009748`*^9, 
+   3.7707617426413126`*^9}},ExpressionUUID->"a60fedde-90aa-4827-9238-\
 587ed4164044"],
 
 Cell[CellGroupData[{
@@ -403,7 +414,7 @@ Cell[BoxData[{
                RowBox[{"17", ",", "7"}], "}"}], "IconizedItem"]}]}, {
           RowBox[{
             TagBox["\"Byte count: \"", "IconizedLabel"], "\[InvisibleSpace]", 
-            TagBox["6576", "IconizedItem"]}]}}, 
+            TagBox["6552", "IconizedItem"]}]}}, 
         GridBoxAlignment -> {"Columns" -> {{Left}}}, DefaultBaseStyle -> 
         "Column", 
         GridBoxItemSize -> {
@@ -413,8 +424,7 @@ Cell[BoxData[{
     {{"name", "image", "position", "height_m", "base_m", "year", "slope_%"}, {
      "Djoser", 
       "https://en.wikipedia.org/wiki/File:Saqqara_pyramid_ver_2.jpg", {
-      29.871267, 31.216394}, 62.5, 121, 2648, 
-      Missing[]}, {
+      29.871267, 31.216394}, 62.5, 121, 2648, 103}, {
      "Sneferu_bent", 
       "https://en.wikipedia.org/wiki/File:Snefru%27s_Bent_Pyramid_in_Dahshur.\
 jpg", {29.790278, 31.209167}, 104.74, 189.61, 2600, 93}, {
@@ -512,8 +522,9 @@ JPG", {29.791667, 31.223611}, 75, 105, 2055, 166}, {
    3.770724840277833*^9}, {3.770724879389264*^9, 3.7707249226317115`*^9}, {
    3.770724953065682*^9, 3.7707250740555053`*^9}, {3.7707251284726295`*^9, 
    3.770725172660692*^9}, 3.770725221985118*^9, 3.7707252909685097`*^9, 
-   3.7707335216503963`*^9, 3.7707337489999743`*^9},
- CellLabel->"In[35]:=",ExpressionUUID->"419aa230-cc93-4b9c-badf-a0cb4944d049"],
+   3.7707335216503963`*^9, 3.7707337489999743`*^9, {3.7707556655248737`*^9, 
+   3.7707556935319314`*^9}, 3.770757696806778*^9},
+ CellLabel->"In[12]:=",ExpressionUUID->"419aa230-cc93-4b9c-badf-a0cb4944d049"],
 
 Cell[BoxData[
  RowBox[{"{", 
@@ -528,8 +539,7 @@ Cell[BoxData[
 \>", ",", 
      RowBox[{"{", 
       RowBox[{"29.871267`", ",", "31.216394`"}], "}"}], ",", "62.5`", ",", 
-     "121", ",", "2648", ",", 
-     RowBox[{"Missing", "[", "]"}]}], "}"}], ",", 
+     "121", ",", "2648", ",", "103"}], "}"}], ",", 
    RowBox[{"{", 
     RowBox[{"\<\"Sneferu_bent\"\>", 
      ",", "\<\"https://en.wikipedia.org/wiki/File:Snefru%27s_Bent_Pyramid_in_\
@@ -538,8 +548,10 @@ Dahshur.jpg\"\>", ",",
       RowBox[{"29.790278`", ",", "31.209167`"}], "}"}], ",", "104.74`", ",", 
      "189.61`", ",", "2600", ",", "93"}], "}"}]}], "}"}]], "Output",
  CellChangeTimes->{{3.7707335567337217`*^9, 3.7707335635441465`*^9}, 
-   3.770734487718073*^9, 3.7707346948587894`*^9},
- CellLabel->"Out[36]=",ExpressionUUID->"48fe878e-a5d9-405f-b22a-6ce3d0b4a70f"]
+   3.770734487718073*^9, 3.7707346948587894`*^9, 3.770742010807356*^9, 
+   3.770745764138579*^9, 3.77075585366971*^9, 3.770757489804743*^9, 
+   3.7707617856786857`*^9, 3.7707620195556526`*^9},
+ CellLabel->"Out[13]=",ExpressionUUID->"dfafe654-7b2f-40a0-93b8-1b97a0e3b208"]
 }, Open  ]],
 
 Cell["Just to speed up things I will remove the header", "Text",
@@ -556,15 +568,17 @@ Cell[BoxData[
  CellChangeTimes->{{3.770587217402345*^9, 3.770587233182187*^9}, {
   3.770734440909328*^9, 3.7707344656740623`*^9}, {3.770734558162613*^9, 
   3.7707345801337805`*^9}},
- CellLabel->"In[37]:=",ExpressionUUID->"9ba55e37-a06c-49ed-b353-735666433fc8"],
+ CellLabel->"In[14]:=",ExpressionUUID->"9ba55e37-a06c-49ed-b353-735666433fc8"],
 
 Cell[BoxData[
  RowBox[{"{", 
   RowBox[{"\<\"name\"\>", ",", "\<\"image\"\>", ",", "\<\"position\"\>", 
    ",", "\<\"height_m\"\>", ",", "\<\"base_m\"\>", ",", "\<\"year\"\>", 
    ",", "\<\"slope_%\"\>"}], "}"}]], "Output",
- CellChangeTimes->{3.770734694915637*^9},
- CellLabel->"Out[37]=",ExpressionUUID->"1abb5633-315d-481a-8a6c-d37f938cb5c7"]
+ CellChangeTimes->{3.770734694915637*^9, 3.770742010855192*^9, 
+  3.7707457641848335`*^9, 3.7707558537544794`*^9, 3.770757489919436*^9, 
+  3.770761785743512*^9, 3.7707620195836134`*^9},
+ CellLabel->"Out[14]=",ExpressionUUID->"15544382-6f2f-4208-986d-32b8d98739a7"]
 }, Open  ]],
 
 Cell[BoxData[
@@ -574,83 +588,7 @@ Cell[BoxData[
  CellChangeTimes->{{3.770587217402345*^9, 3.770587233182187*^9}, {
   3.770734440909328*^9, 3.7707344656740623`*^9}, {3.770734558162613*^9, 
   3.7707345801337805`*^9}},
- CellLabel->"In[38]:=",ExpressionUUID->"d5aa5836-c100-4047-b2b0-23afeb91fccc"],
-
-Cell[CellGroupData[{
-
-Cell[BoxData[
- RowBox[{"ImageCollage", "[", 
-  RowBox[{"data", "\[LeftDoubleBracket]", 
-   RowBox[{"All", ",", "2"}], "\[RightDoubleBracket]"}], "]"}]], "Input",
- CellChangeTimes->{{3.7706370582140074`*^9, 3.770637095150352*^9}, 
-   3.770725388233124*^9, {3.770725477462102*^9, 3.7707254895083475`*^9}, {
-   3.770734453156562*^9, 3.770734473620796*^9}},
- CellLabel->"In[39]:=",ExpressionUUID->"606638b9-9d6a-44b3-a23b-0edc4aff37fa"],
-
-Cell[BoxData[
- TemplateBox[{
-  "ImageCollage","invimg",
-   "\"Expecting a list of images or graphics instead of \
-\\!\\(\\*RowBox[{\\\"{\\\", \
-RowBox[{\\\"\\\\\\\"https://en.wikipedia.org/wiki/File:Saqqara_pyramid_ver_2.\
-jpg\\\\\\\"\\\", \\\",\\\", \
-\\\"\\\\\\\"https://en.wikipedia.org/wiki/File:Snefru%27s_Bent_Pyramid_in_\
-Dahshur.jpg\\\\\\\"\\\", \\\",\\\", \
-\\\"\\\\\\\"https://en.wikipedia.org/wiki/File:Snofrus_Red_Pyramid_in_Dahshur_\
-(2).jpg\\\\\\\"\\\", \\\",\\\", \
-\\\"\\\\\\\"https://en.wikipedia.org/wiki/File:Meidoum_pyramide_003.JPG\\\\\\\
-\"\\\", \\\",\\\", \
-\\\"\\\\\\\"https://en.wikipedia.org/wiki/File:Kheops-Pyramid.jpg\\\\\\\"\\\",\
- \\\",\\\", \
-\\\"\\\\\\\"https://en.wikipedia.org/wiki/File:Pyramid_of_Khafre_Giza_Egypt_\
-in_2015_2.jpg\\\\\\\"\\\", \\\",\\\", RowBox[{\\\"\[LeftSkeleton]\\\", \
-\\\"5\\\", \\\"\[RightSkeleton]\\\"}], \\\",\\\", \
-\\\"\\\\\\\"https://en.wikipedia.org/wiki/File:AmenemhetIPyramid.jpg\\\\\\\"\\\
-\", \\\",\\\", \
-\\\"\\\\\\\"https://en.wikipedia.org/wiki/File:Licht-senwsPyramids_01.jpg\\\\\
-\\\"\\\", \\\",\\\", \
-\\\"\\\\\\\"https://en.wikipedia.org/wiki/File:El_Lahun_Pyramid_01.JPG\\\\\\\"\
-\\\", \\\",\\\", \
-\\\"\\\\\\\"https://en.wikipedia.org/wiki/File:Black_Pyramid_of_Amenemhat_III.\
-.JPG\\\\\\\"\\\", \\\",\\\", \
-\\\"\\\\\\\"https://en.wikipedia.org/wiki/File:Khendjer-complexe-1.jpg\\\\\\\"\
-\\\"}], \\\"}\\\"}]\\).\"",2,39,2,32483747620172719220,"Local"},
-  "MessageTemplate"]], "Message", "MSG",
- CellChangeTimes->{3.7707346950063963`*^9},
- CellLabel->
-  "During evaluation of \
-In[39]:=",ExpressionUUID->"f2b3bb39-3f71-4551-b16d-98290323c9e0"],
-
-Cell[BoxData[
- RowBox[{"ImageCollage", "[", 
-  RowBox[{"{", 
-   RowBox[{"\<\"https://en.wikipedia.org/wiki/File:Saqqara_pyramid_ver_2.jpg\"\
-\>", ",", \
-"\<\"https://en.wikipedia.org/wiki/File:Snefru%27s_Bent_Pyramid_in_Dahshur.\
-jpg\"\>", 
-    ",", "\<\"https://en.wikipedia.org/wiki/File:Snofrus_Red_Pyramid_in_\
-Dahshur_(2).jpg\"\>", 
-    ",", "\<\"https://en.wikipedia.org/wiki/File:Meidoum_pyramide_003.JPG\"\>\
-", ",", "\<\"https://en.wikipedia.org/wiki/File:Kheops-Pyramid.jpg\"\>", 
-    ",", "\<\"https://en.wikipedia.org/wiki/File:Pyramid_of_Khafre_Giza_Egypt_\
-in_2015_2.jpg\"\>", 
-    ",", "\<\"https://en.wikipedia.org/wiki/File:Cairo,_Gizeh,_Pyramid_of_\
-Menkaure,_Egypt,_Oct_2005.jpg\"\>", 
-    ",", "\<\"https://en.wikipedia.org/wiki/File:Saqqarah_Ouserkaf_06.jpg\"\>\
-", ",", "\<\"https://en.wikipedia.org/wiki/File:SahurePyramid.jpg\"\>", 
-    ",", "\<\"https://en.wikipedia.org/wiki/File:Neferirkare.jpg\"\>", 
-    ",", "\<\"https://en.wikipedia.org/wiki/File:Niouserre2.JPG\"\>", 
-    ",", "\<\"https://en.wikipedia.org/wiki/File:AmenemhetIPyramid.jpg\"\>", 
-    ",", "\<\"https://en.wikipedia.org/wiki/File:Licht-senwsPyramids_01.jpg\"\
-\>", ",", \
-"\<\"https://en.wikipedia.org/wiki/File:El_Lahun_Pyramid_01.JPG\"\>", 
-    ",", "\<\"https://en.wikipedia.org/wiki/File:Black_Pyramid_of_Amenemhat_\
-III..JPG\"\>", 
-    ",", "\<\"https://en.wikipedia.org/wiki/File:Khendjer-complexe-1.jpg\"\>"}\
-], "}"}], "]"}]], "Output",
- CellChangeTimes->{3.7707346950213547`*^9},
- CellLabel->"Out[39]=",ExpressionUUID->"7575bc4e-7d66-4a1d-aa37-67e19460a748"]
-}, Open  ]]
+ CellLabel->"In[15]:=",ExpressionUUID->"d5aa5836-c100-4047-b2b0-23afeb91fccc"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -701,7 +639,7 @@ Cell[BoxData[{
      "Entity"]}]}], "]"}]}], "Input",
  CellChangeTimes->{{3.7707379330703707`*^9, 3.770737970310994*^9}, {
   3.7707380939381475`*^9, 3.7707380944767056`*^9}},
- CellLabel->"In[68]:=",ExpressionUUID->"876fe203-9412-4c08-a457-2360bdbeeddf"],
+ CellLabel->"In[16]:=",ExpressionUUID->"876fe203-9412-4c08-a457-2360bdbeeddf"],
 
 Cell[BoxData[
  GraphicsBox[{{
@@ -2672,8 +2610,10 @@ contributors: http://www.openstreetmap.org/copyright"}}},
    33.989236008456295`}},
   PlotRangeClipping->True,
   PlotRangePadding->None]], "Output",
- CellChangeTimes->{3.770737972915024*^9, 3.770738097882592*^9},
- CellLabel->"Out[69]=",ExpressionUUID->"fe69836f-cf4a-440c-a2da-b7ff73a64864"]
+ CellChangeTimes->{3.770737972915024*^9, 3.770738097882592*^9, 
+  3.7707420125835686`*^9, 3.770745765855094*^9, 3.7707558587421327`*^9, 
+  3.7707574926880283`*^9, 3.770761788149809*^9, 3.770762021627547*^9},
+ CellLabel->"Out[17]=",ExpressionUUID->"15bce047-309f-43ae-82b8-cb84d30213d5"]
 }, Open  ]],
 
 Cell["\<\
@@ -2722,7 +2662,7 @@ Cell[BoxData[
    3.770655215561592*^9}, {3.7706561186596055`*^9, 3.77065612022174*^9}, {
    3.7706583850038676`*^9, 3.7706583907231846`*^9}, {3.770658818865591*^9, 
    3.7706588407812243`*^9}, {3.770669064854616*^9, 3.7706690662502003`*^9}},
- CellLabel->"In[70]:=",ExpressionUUID->"ab3b9135-6592-45f7-9479-5c066f0b61cf"],
+ CellLabel->"In[18]:=",ExpressionUUID->"ab3b9135-6592-45f7-9479-5c066f0b61cf"],
 
 Cell[BoxData[
  GraphicsBox[{{
@@ -7217,8 +7157,10 @@ contributors: http://www.openstreetmap.org/copyright"}}},
    31.491930177099302`}},
   PlotRangeClipping->True,
   PlotRangePadding->None]], "Output",
- CellChangeTimes->{3.770738612762352*^9},
- CellLabel->"Out[70]=",ExpressionUUID->"ca28c361-aa16-43c7-a535-b24abec568f3"]
+ CellChangeTimes->{3.770738612762352*^9, 3.7707420131909437`*^9, 
+  3.7707457664748087`*^9, 3.770755859551966*^9, 3.7707574933642187`*^9, 
+  3.7707617888343363`*^9, 3.7707620222419024`*^9},
+ CellLabel->"Out[18]=",ExpressionUUID->"116bd5d3-6165-4cb4-93b4-98482bc86ba2"]
 }, Open  ]],
 
 Cell[TextData[{
@@ -7271,7 +7213,7 @@ Cell[BoxData[
    3.770655791890504*^9, 3.770655950511263*^9}, {3.7706691964661627`*^9, 
    3.770669210011959*^9}, {3.7706698206681795`*^9, 3.7706698356361804`*^9}, {
    3.770669886529731*^9, 3.770669903949649*^9}, 3.770670253260824*^9},
- CellLabel->"In[71]:=",ExpressionUUID->"a18adf5f-614a-44f1-a5a9-9421edd23ce1"],
+ CellLabel->"In[19]:=",ExpressionUUID->"a18adf5f-614a-44f1-a5a9-9421edd23ce1"],
 
 Cell[BoxData[
  GraphicsBox[{{}, GraphicsComplexBox[CompressedData["
@@ -7297,52 +7239,52 @@ PwxIoPGB/kfhw/wPA0D/o/BHcPwDAEzonrc=
        0.012833333333333334`], AbsoluteThickness[1.6]}, {}}, {
       TagBox[
        {Opacity[0.], PointBox[33]},
-       Annotation[#, {{Labeled}, Charting`Private`Tag$293558, {1}}]& ], 
+       Annotation[#, {{Labeled}, Charting`Private`Tag$12939, {1}}]& ], 
       TagBox[
        {Opacity[0.], PointBox[34]},
-       Annotation[#, {{Labeled}, Charting`Private`Tag$293558, {2}}]& ], 
+       Annotation[#, {{Labeled}, Charting`Private`Tag$12939, {2}}]& ], 
       TagBox[
        {Opacity[0.], PointBox[35]},
-       Annotation[#, {{Labeled}, Charting`Private`Tag$293558, {3}}]& ], 
+       Annotation[#, {{Labeled}, Charting`Private`Tag$12939, {3}}]& ], 
       TagBox[
        {Opacity[0.], PointBox[36]},
-       Annotation[#, {{Labeled}, Charting`Private`Tag$293558, {4}}]& ], 
+       Annotation[#, {{Labeled}, Charting`Private`Tag$12939, {4}}]& ], 
       TagBox[
        {Opacity[0.], PointBox[37]},
-       Annotation[#, {{Labeled}, Charting`Private`Tag$293558, {5}}]& ], 
+       Annotation[#, {{Labeled}, Charting`Private`Tag$12939, {5}}]& ], 
       TagBox[
        {Opacity[0.], PointBox[38]},
-       Annotation[#, {{Labeled}, Charting`Private`Tag$293558, {6}}]& ], 
+       Annotation[#, {{Labeled}, Charting`Private`Tag$12939, {6}}]& ], 
       TagBox[
        {Opacity[0.], PointBox[39]},
-       Annotation[#, {{Labeled}, Charting`Private`Tag$293558, {7}}]& ], 
+       Annotation[#, {{Labeled}, Charting`Private`Tag$12939, {7}}]& ], 
       TagBox[
        {Opacity[0.], PointBox[40]},
-       Annotation[#, {{Labeled}, Charting`Private`Tag$293558, {8}}]& ], 
+       Annotation[#, {{Labeled}, Charting`Private`Tag$12939, {8}}]& ], 
       TagBox[
        {Opacity[0.], PointBox[41]},
-       Annotation[#, {{Labeled}, Charting`Private`Tag$293558, {9}}]& ], 
+       Annotation[#, {{Labeled}, Charting`Private`Tag$12939, {9}}]& ], 
       TagBox[
        {Opacity[0.], PointBox[42]},
-       Annotation[#, {{Labeled}, Charting`Private`Tag$293558, {10}}]& ], 
+       Annotation[#, {{Labeled}, Charting`Private`Tag$12939, {10}}]& ], 
       TagBox[
        {Opacity[0.], PointBox[43]},
-       Annotation[#, {{Labeled}, Charting`Private`Tag$293558, {11}}]& ], 
+       Annotation[#, {{Labeled}, Charting`Private`Tag$12939, {11}}]& ], 
       TagBox[
        {Opacity[0.], PointBox[44]},
-       Annotation[#, {{Labeled}, Charting`Private`Tag$293558, {12}}]& ], 
+       Annotation[#, {{Labeled}, Charting`Private`Tag$12939, {12}}]& ], 
       TagBox[
        {Opacity[0.], PointBox[45]},
-       Annotation[#, {{Labeled}, Charting`Private`Tag$293558, {13}}]& ], 
+       Annotation[#, {{Labeled}, Charting`Private`Tag$12939, {13}}]& ], 
       TagBox[
        {Opacity[0.], PointBox[46]},
-       Annotation[#, {{Labeled}, Charting`Private`Tag$293558, {14}}]& ], 
+       Annotation[#, {{Labeled}, Charting`Private`Tag$12939, {14}}]& ], 
       TagBox[
        {Opacity[0.], PointBox[47]},
-       Annotation[#, {{Labeled}, Charting`Private`Tag$293558, {15}}]& ], 
+       Annotation[#, {{Labeled}, Charting`Private`Tag$12939, {15}}]& ], 
       TagBox[
        {Opacity[0.], PointBox[48]},
-       Annotation[#, {{Labeled}, Charting`Private`Tag$293558, {
+       Annotation[#, {{Labeled}, Charting`Private`Tag$12939, {
          16}}]& ]}}], {{{{}, {GraphicsGroupBox[{
          {EdgeForm[None], FaceForm[{GrayLevel[1], Opacity[
            NCache[
@@ -7868,8 +7810,10 @@ PwxIoPGB/kfhw/wPA0D/o/BHcPwDAEzonrc=
        FormBox[
         TemplateBox[{0., 0.}, "Spacer2"], TraditionalForm], {0.005, 0.}, {
         AbsoluteThickness[0.1]}}}, Automatic}]]], "Output",
- CellChangeTimes->{3.7707391698804097`*^9},
- CellLabel->"Out[71]=",ExpressionUUID->"8932f375-b5ee-4034-9a07-a0d1c8693fde"]
+ CellChangeTimes->{3.7707391698804097`*^9, 3.7707420135759134`*^9, 
+  3.7707457669748993`*^9, 3.7707558603977365`*^9, 3.7707574937631836`*^9, 
+  3.770761789190387*^9, 3.7707620226096992`*^9},
+ CellLabel->"Out[19]=",ExpressionUUID->"474b2407-f6ba-415f-9d3e-a5e704d3cfb5"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -7890,7 +7834,7 @@ Cell[BoxData[
   3.7706324777797127`*^9}, {3.770739316376278*^9, 3.770739321976336*^9}, {
   3.770739527418923*^9, 3.7707395276143975`*^9}, {3.7707396399198813`*^9, 
   3.7707396703514624`*^9}},
- CellLabel->"In[76]:=",ExpressionUUID->"e0c49f8e-5100-424f-a245-e5423e88d5e5"],
+ CellLabel->"In[20]:=",ExpressionUUID->"e0c49f8e-5100-424f-a245-e5423e88d5e5"],
 
 Cell[BoxData[
  RowBox[{"{", 
@@ -7920,8 +7864,10 @@ Cell[BoxData[
      TemplateBox[{"\"based on the \"", "\"Spearman Rank\"", "\" test.\""}, 
       "RowDefault"]},
     "RowDefault"]}], "}"}]], "Output",
- CellChangeTimes->{3.7707396706078224`*^9},
- CellLabel->"Out[76]=",ExpressionUUID->"53158f21-bd5d-4a42-baca-60eb88015318"]
+ CellChangeTimes->{3.7707396706078224`*^9, 3.7707420137594213`*^9, 
+  3.770745767175033*^9, 3.770755860811597*^9, 3.7707574940683928`*^9, 
+  3.77076178937293*^9, 3.770762022758564*^9},
+ CellLabel->"Out[20]=",ExpressionUUID->"69ada009-8b23-4d7b-8c2a-deb9ed971f1d"]
 }, Open  ]],
 
 Cell[TextData[{
@@ -7986,19 +7932,29 @@ Cell[BoxData[
       RowBox[{"Thread", "[", 
        RowBox[{"\"\<height\>\"", "\[Rule]", 
         RowBox[{"data", "\[LeftDoubleBracket]", 
-         RowBox[{"All", ",", "4"}], "\[RightDoubleBracket]"}]}], "]"}]}], 
+         RowBox[{"All", ",", "4"}], "\[RightDoubleBracket]"}]}], "]"}], ",", 
+      RowBox[{"Thread", "[", 
+       RowBox[{"\"\<time\>\"", "\[Rule]", 
+        RowBox[{"data", "\[LeftDoubleBracket]", 
+         RowBox[{"All", ",", "6"}], "\[RightDoubleBracket]"}]}], "]"}], ",", 
+      RowBox[{"Thread", "[", 
+       RowBox[{"\"\<slope\>\"", "\[Rule]", 
+        RowBox[{"data", "\[LeftDoubleBracket]", 
+         RowBox[{"All", ",", "7"}], "\[RightDoubleBracket]"}]}], "]"}]}], 
      "}"}], "]"}]}], ";"}]], "Input",
  CellChangeTimes->{{3.770681433433444*^9, 3.770681437540275*^9}, {
    3.770681500308652*^9, 3.770681553506463*^9}, {3.770682085023821*^9, 
-   3.770682097382057*^9}, 3.7707158830164614`*^9, 3.7707405246045747`*^9},
- CellLabel->"In[77]:=",ExpressionUUID->"bbba844f-fc64-4770-9188-b3883c83ab1d"],
+   3.770682097382057*^9}, 3.7707158830164614`*^9, 3.7707405246045747`*^9, {
+   3.770745679082237*^9, 3.770745737973529*^9}},
+ CellLabel->"In[21]:=",ExpressionUUID->"bbba844f-fc64-4770-9188-b3883c83ab1d"],
 
 Cell["\<\
 By that we have a dataset contains for each pyramid its name, distance to \
-Cairo, and height, let us have a look\
+Cairo, ...,etc, let us have a look\
 \>", "Text",
- CellChangeTimes->{{3.7706821735383596`*^9, 
-  3.7706822509106045`*^9}},ExpressionUUID->"c38bf303-6974-4541-8938-\
+ CellChangeTimes->{{3.7706821735383596`*^9, 3.7706822509106045`*^9}, {
+  3.770745969304119*^9, 
+  3.77074597424831*^9}},ExpressionUUID->"c38bf303-6974-4541-8938-\
 806972fe358c"],
 
 Cell[CellGroupData[{
@@ -8006,7 +7962,7 @@ Cell[CellGroupData[{
 Cell[BoxData[
  RowBox[{"Dataset", "[", "data2", "]"}]], "Input",
  CellChangeTimes->{{3.7706822552844687`*^9, 3.770682265438369*^9}},
- CellLabel->"In[78]:=",ExpressionUUID->"b564d4d8-5a54-48ad-8208-5999696fcdf7"],
+ CellLabel->"In[22]:=",ExpressionUUID->"b564d4d8-5a54-48ad-8208-5999696fcdf7"],
 
 Cell[BoxData[
  TemplateBox[{TagBox[
@@ -8014,15 +7970,19 @@ Cell[BoxData[
      TypeSystem`NestedGrid`PackagePrivate`$state$$ = 
       Data`UnorderedAssociation[
        "RowCount" -> 16, "Length" -> 16, "InitialType" -> TypeSystem`Vector[
-          TypeSystem`Struct[{"pyramid", "distance_to_cairo", "height"}, {
+          
+          TypeSystem`Struct[{
+           "pyramid", "distance_to_cairo", "height", "time", "slope"}, {
             TypeSystem`Atom[String], 
             TypeSystem`Atom[
              Quantity[1, "Miles"]], 
+            TypeSystem`Atom[Real], 
+            TypeSystem`Atom[Integer], 
             TypeSystem`Atom[Real]}], 16], "Shape" -> 
         TypeSystem`PackageScope`HeaderShape[
           
           Association[{All, "pyramid"} -> 1, {All, "distance_to_cairo"} -> 
-           1, {All, "height"} -> 1], 
+           1, {All, "height"} -> 1, {All, "time"} -> 1, {All, "slope"} -> 1], 
           TypeSystem`PackageScope`Limited[
            TypeSystem`PackageScope`ColumnShape[
             TypeSystem`PackageScope`RowShape[
@@ -8030,15 +7990,21 @@ Cell[BoxData[
              "pyramid" -> 
               TypeSystem`PackageScope`AtomShape[115.20000000000002`], 
               "distance_to_cairo" -> TypeSystem`PackageScope`AtomShape[75], 
-              "height" -> TypeSystem`PackageScope`AtomShape[60]]]], 16, {}]], 
-        "InitialData" -> TypeSystem`PackageScope`CacheHandle[904264616], 
+              "height" -> TypeSystem`PackageScope`AtomShape[60], "time" -> 
+              TypeSystem`PackageScope`AtomShape[34], "slope" -> 
+              TypeSystem`PackageScope`AtomShape[60]]]], 16, {}]], 
+        "InitialData" -> TypeSystem`PackageScope`CacheHandle[556869328], 
         "Type" -> TypeSystem`Vector[
-          TypeSystem`Struct[{"pyramid", "distance_to_cairo", "height"}, {
+          
+          TypeSystem`Struct[{
+           "pyramid", "distance_to_cairo", "height", "time", "slope"}, {
             TypeSystem`Atom[String], 
             TypeSystem`Atom[
              Quantity[1, "Miles"]], 
+            TypeSystem`Atom[Real], 
+            TypeSystem`Atom[Integer], 
             TypeSystem`Atom[Real]}], 16], "HandleQ" -> True, "RowTarget" -> 
-        20, "Data" -> TypeSystem`PackageScope`CacheHandle[904264616]], 
+        20, "Data" -> TypeSystem`PackageScope`CacheHandle[556869328]], 
       TypeSystem`NestedGrid`PackagePrivate`$path$$ = {}, 
       TypeSystem`NestedGrid`PackagePrivate`$pos$$ = 1, 
       TypeSystem`NestedGrid`PackagePrivate`$grid$$ = 
@@ -8071,8 +8037,8 @@ Cell[BoxData[
                     TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$grid$$, 
-                    1057464643][{All, "pyramid"}]], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                    1024075475][{All, "pyramid"}]], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[All, "pyramid"]], "Mouse"], 
                 Background -> GrayLevel[0.95], Alignment -> {Left, Baseline}], 
                Item[
@@ -8101,8 +8067,8 @@ Cell[BoxData[
                     TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$grid$$, 
-                    1057464643][{All, "distance_to_cairo"}]], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                    1024075475][{All, "distance_to_cairo"}]], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[All, "distance_to_cairo"]], "Mouse"],
                  Background -> GrayLevel[0.95], 
                 Alignment -> {Left, Baseline}], 
@@ -8131,14 +8097,71 @@ Cell[BoxData[
                     TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
                     TypeSystem`NestedGrid`PackagePrivate`$grid$$, 
-                    1057464643][{All, "height"}]], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                    1024075475][{All, "height"}]], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[All, "height"]], "Mouse"], 
-                Background -> GrayLevel[0.95], 
-                Alignment -> {Left, Baseline}]}, {
+                Background -> GrayLevel[0.95], Alignment -> {Left, Baseline}], 
+               Item[
+                Annotation[
+                 EventHandler[
+                  MouseAppearance[
+                   Mouseover[
+                    Pane[
+                    RawBoxes[
+                    StyleBox["\"time\"", FontColor -> GrayLevel[0.4]]], {{
+                    20, Full}, 15}], 
+                    Style[
+                    Pane[
+                    RawBoxes[
+                    StyleBox[
+                    "\"time\"", FontColor -> 
+                    RGBColor[
+                    0.27450980392156865`, 0.5372549019607843, 
+                    0.792156862745098]]], {{20, Full}, 15}], FontColor -> 
+                    RGBColor[
+                    0.27450980392156865`, 0.5372549019607843, 
+                    0.792156862745098]]], "LinkHand"], {"MouseClicked", 1} :> 
+                  TypeSystem`NestedGrid`PackagePrivate`updateState[
+                   TypeSystem`NestedGrid`PackagePrivate`$state$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$path$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 
+                    1024075475][{All, "time"}]], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
+                  GeneralUtilities`Slice[All, "time"]], "Mouse"], Background -> 
+                GrayLevel[0.95], Alignment -> {Left, Baseline}], 
+               Item[
+                Annotation[
+                 EventHandler[
+                  MouseAppearance[
+                   Mouseover[
+                    Pane[
+                    RawBoxes[
+                    StyleBox["\"slope\"", FontColor -> GrayLevel[0.4]]], {{
+                    20, Full}, 15}], 
+                    Style[
+                    Pane[
+                    RawBoxes[
+                    StyleBox[
+                    "\"slope\"", FontColor -> 
+                    RGBColor[
+                    0.27450980392156865`, 0.5372549019607843, 
+                    0.792156862745098]]], {{20, Full}, 15}], FontColor -> 
+                    RGBColor[
+                    0.27450980392156865`, 0.5372549019607843, 
+                    0.792156862745098]]], "LinkHand"], {"MouseClicked", 1} :> 
+                  TypeSystem`NestedGrid`PackagePrivate`updateState[
+                   TypeSystem`NestedGrid`PackagePrivate`$state$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$path$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
+                    TypeSystem`NestedGrid`PackagePrivate`$grid$$, 
+                    1024075475][{All, "slope"}]], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
+                  GeneralUtilities`Slice[All, "slope"]], "Mouse"], Background -> 
+                GrayLevel[0.95], Alignment -> {Left, Baseline}]}, {
                Pane[
                 Annotation["Djoser", 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[1, 
                    Key["pyramid"]]], "Mouse"], 
                 ImageSize -> {{115.20000000000002`, Full}, Automatic}, 
@@ -8152,7 +8175,7 @@ Cell[BoxData[
                     Rational[33, 74], 
                     Rational[27, 74], 
                     Rational[117, 370]}]]], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[1, 
                    Key["distance_to_cairo"]]], "Mouse"], 
                 ImageSize -> {{75, Full}, Automatic}, 
@@ -8160,14 +8183,30 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["62.5"], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[1, 
                    Key["height"]]], "Mouse"], 
+                ImageSize -> {{60, Full}, Automatic}, 
+                Alignment -> {Left, Baseline}], 
+               Pane[
+                Annotation[
+                 RawBoxes["2648"], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
+                  GeneralUtilities`Slice[1, 
+                   Key["time"]]], "Mouse"], 
+                ImageSize -> {{34, Full}, Automatic}, 
+                Alignment -> {Left, Baseline}], 
+               Pane[
+                Annotation[
+                 RawBoxes["103"], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
+                  GeneralUtilities`Slice[1, 
+                   Key["slope"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
                 Alignment -> {Left, Baseline}]}, {
                Pane[
                 Annotation["Sneferu_bent", 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[2, 
                    Key["pyramid"]]], "Mouse"], 
                 ImageSize -> {{115.20000000000002`, Full}, Automatic}, 
@@ -8181,7 +8220,7 @@ Cell[BoxData[
                     Rational[33, 74], 
                     Rational[27, 74], 
                     Rational[117, 370]}]]], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[2, 
                    Key["distance_to_cairo"]]], "Mouse"], 
                 ImageSize -> {{75, Full}, Automatic}, 
@@ -8189,14 +8228,30 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["104.74"], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[2, 
                    Key["height"]]], "Mouse"], 
+                ImageSize -> {{60, Full}, Automatic}, 
+                Alignment -> {Left, Baseline}], 
+               Pane[
+                Annotation[
+                 RawBoxes["2600"], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
+                  GeneralUtilities`Slice[2, 
+                   Key["time"]]], "Mouse"], 
+                ImageSize -> {{34, Full}, Automatic}, 
+                Alignment -> {Left, Baseline}], 
+               Pane[
+                Annotation[
+                 RawBoxes["93"], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
+                  GeneralUtilities`Slice[2, 
+                   Key["slope"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
                 Alignment -> {Left, Baseline}]}, {
                Pane[
                 Annotation["Sneferu_red", 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[3, 
                    Key["pyramid"]]], "Mouse"], 
                 ImageSize -> {{115.20000000000002`, Full}, Automatic}, 
@@ -8210,7 +8265,7 @@ Cell[BoxData[
                     Rational[33, 74], 
                     Rational[27, 74], 
                     Rational[117, 370]}]]], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[3, 
                    Key["distance_to_cairo"]]], "Mouse"], 
                 ImageSize -> {{75, Full}, Automatic}, 
@@ -8218,14 +8273,30 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["105"], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[3, 
                    Key["height"]]], "Mouse"], 
+                ImageSize -> {{60, Full}, Automatic}, 
+                Alignment -> {Left, Baseline}], 
+               Pane[
+                Annotation[
+                 RawBoxes["2589"], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
+                  GeneralUtilities`Slice[3, 
+                   Key["time"]]], "Mouse"], 
+                ImageSize -> {{34, Full}, Automatic}, 
+                Alignment -> {Left, Baseline}], 
+               Pane[
+                Annotation[
+                 RawBoxes["93"], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
+                  GeneralUtilities`Slice[3, 
+                   Key["slope"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
                 Alignment -> {Left, Baseline}]}, {
                Pane[
                 Annotation["Sneferu_Meidum", 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[4, 
                    Key["pyramid"]]], "Mouse"], 
                 ImageSize -> {{115.20000000000002`, Full}, Automatic}, 
@@ -8239,7 +8310,7 @@ Cell[BoxData[
                     Rational[33, 74], 
                     Rational[27, 74], 
                     Rational[117, 370]}]]], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[4, 
                    Key["distance_to_cairo"]]], "Mouse"], 
                 ImageSize -> {{75, Full}, Automatic}, 
@@ -8247,14 +8318,30 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["91.65"], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[4, 
                    Key["height"]]], "Mouse"], 
+                ImageSize -> {{60, Full}, Automatic}, 
+                Alignment -> {Left, Baseline}], 
+               Pane[
+                Annotation[
+                 RawBoxes["2470"], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
+                  GeneralUtilities`Slice[4, 
+                   Key["time"]]], "Mouse"], 
+                ImageSize -> {{34, Full}, Automatic}, 
+                Alignment -> {Left, Baseline}], 
+               Pane[
+                Annotation[
+                 RawBoxes["93"], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
+                  GeneralUtilities`Slice[4, 
+                   Key["slope"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
                 Alignment -> {Left, Baseline}]}, {
                Pane[
                 Annotation["Khufu", 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[5, 
                    Key["pyramid"]]], "Mouse"], 
                 ImageSize -> {{115.20000000000002`, Full}, Automatic}, 
@@ -8268,7 +8355,7 @@ Cell[BoxData[
                     Rational[33, 74], 
                     Rational[27, 74], 
                     Rational[117, 370]}]]], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[5, 
                    Key["distance_to_cairo"]]], "Mouse"], 
                 ImageSize -> {{75, Full}, Automatic}, 
@@ -8276,14 +8363,30 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["146.7"], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[5, 
                    Key["height"]]], "Mouse"], 
+                ImageSize -> {{60, Full}, Automatic}, 
+                Alignment -> {Left, Baseline}], 
+               Pane[
+                Annotation[
+                 RawBoxes["2560"], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
+                  GeneralUtilities`Slice[5, 
+                   Key["time"]]], "Mouse"], 
+                ImageSize -> {{34, Full}, Automatic}, 
+                Alignment -> {Left, Baseline}], 
+               Pane[
+                Annotation[
+                 RawBoxes["123.4"], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
+                  GeneralUtilities`Slice[5, 
+                   Key["slope"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
                 Alignment -> {Left, Baseline}]}, {
                Pane[
                 Annotation["Khafre", 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[6, 
                    Key["pyramid"]]], "Mouse"], 
                 ImageSize -> {{115.20000000000002`, Full}, Automatic}, 
@@ -8297,7 +8400,7 @@ Cell[BoxData[
                     Rational[33, 74], 
                     Rational[27, 74], 
                     Rational[117, 370]}]]], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[6, 
                    Key["distance_to_cairo"]]], "Mouse"], 
                 ImageSize -> {{75, Full}, Automatic}, 
@@ -8305,14 +8408,30 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["136.4"], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[6, 
                    Key["height"]]], "Mouse"], 
+                ImageSize -> {{60, Full}, Automatic}, 
+                Alignment -> {Left, Baseline}], 
+               Pane[
+                Annotation[
+                 RawBoxes["2570"], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
+                  GeneralUtilities`Slice[6, 
+                   Key["time"]]], "Mouse"], 
+                ImageSize -> {{34, Full}, Automatic}, 
+                Alignment -> {Left, Baseline}], 
+               Pane[
+                Annotation[
+                 RawBoxes["132.7"], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
+                  GeneralUtilities`Slice[6, 
+                   Key["slope"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
                 Alignment -> {Left, Baseline}]}, {
                Pane[
                 Annotation["Menkaure", 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[7, 
                    Key["pyramid"]]], "Mouse"], 
                 ImageSize -> {{115.20000000000002`, Full}, Automatic}, 
@@ -8326,7 +8445,7 @@ Cell[BoxData[
                     Rational[33, 74], 
                     Rational[27, 74], 
                     Rational[117, 370]}]]], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[7, 
                    Key["distance_to_cairo"]]], "Mouse"], 
                 ImageSize -> {{75, Full}, Automatic}, 
@@ -8334,14 +8453,30 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["65"], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[7, 
                    Key["height"]]], "Mouse"], 
+                ImageSize -> {{60, Full}, Automatic}, 
+                Alignment -> {Left, Baseline}], 
+               Pane[
+                Annotation[
+                 RawBoxes["2510"], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
+                  GeneralUtilities`Slice[7, 
+                   Key["time"]]], "Mouse"], 
+                ImageSize -> {{34, Full}, Automatic}, 
+                Alignment -> {Left, Baseline}], 
+               Pane[
+                Annotation[
+                 RawBoxes["123.4"], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
+                  GeneralUtilities`Slice[7, 
+                   Key["slope"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
                 Alignment -> {Left, Baseline}]}, {
                Pane[
                 Annotation["Userkaf", 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[8, 
                    Key["pyramid"]]], "Mouse"], 
                 ImageSize -> {{115.20000000000002`, Full}, Automatic}, 
@@ -8355,7 +8490,7 @@ Cell[BoxData[
                     Rational[33, 74], 
                     Rational[27, 74], 
                     Rational[117, 370]}]]], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[8, 
                    Key["distance_to_cairo"]]], "Mouse"], 
                 ImageSize -> {{75, Full}, Automatic}, 
@@ -8363,14 +8498,30 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["49"], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[8, 
                    Key["height"]]], "Mouse"], 
+                ImageSize -> {{60, Full}, Automatic}, 
+                Alignment -> {Left, Baseline}], 
+               Pane[
+                Annotation[
+                 RawBoxes["2490"], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
+                  GeneralUtilities`Slice[8, 
+                   Key["time"]]], "Mouse"], 
+                ImageSize -> {{34, Full}, Automatic}, 
+                Alignment -> {Left, Baseline}], 
+               Pane[
+                Annotation[
+                 RawBoxes["132"], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
+                  GeneralUtilities`Slice[8, 
+                   Key["slope"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
                 Alignment -> {Left, Baseline}]}, {
                Pane[
                 Annotation["Sahure", 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[9, 
                    Key["pyramid"]]], "Mouse"], 
                 ImageSize -> {{115.20000000000002`, Full}, Automatic}, 
@@ -8384,7 +8535,7 @@ Cell[BoxData[
                     Rational[33, 74], 
                     Rational[27, 74], 
                     Rational[117, 370]}]]], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[9, 
                    Key["distance_to_cairo"]]], "Mouse"], 
                 ImageSize -> {{75, Full}, Automatic}, 
@@ -8392,14 +8543,30 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["47"], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[9, 
                    Key["height"]]], "Mouse"], 
+                ImageSize -> {{60, Full}, Automatic}, 
+                Alignment -> {Left, Baseline}], 
+               Pane[
+                Annotation[
+                 RawBoxes["2480"], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
+                  GeneralUtilities`Slice[9, 
+                   Key["time"]]], "Mouse"], 
+                ImageSize -> {{34, Full}, Automatic}, 
+                Alignment -> {Left, Baseline}], 
+               Pane[
+                Annotation[
+                 RawBoxes["119"], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
+                  GeneralUtilities`Slice[9, 
+                   Key["slope"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
                 Alignment -> {Left, Baseline}]}, {
                Pane[
                 Annotation["Neferirkare Kakai", 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[10, 
                    Key["pyramid"]]], "Mouse"], 
                 ImageSize -> {{115.20000000000002`, Full}, Automatic}, 
@@ -8413,7 +8580,7 @@ Cell[BoxData[
                     Rational[33, 74], 
                     Rational[27, 74], 
                     Rational[117, 370]}]]], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[10, 
                    Key["distance_to_cairo"]]], "Mouse"], 
                 ImageSize -> {{75, Full}, Automatic}, 
@@ -8421,14 +8588,30 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["72.8"], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[10, 
                    Key["height"]]], "Mouse"], 
+                ImageSize -> {{60, Full}, Automatic}, 
+                Alignment -> {Left, Baseline}], 
+               Pane[
+                Annotation[
+                 RawBoxes["2500"], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
+                  GeneralUtilities`Slice[10, 
+                   Key["time"]]], "Mouse"], 
+                ImageSize -> {{34, Full}, Automatic}, 
+                Alignment -> {Left, Baseline}], 
+               Pane[
+                Annotation[
+                 RawBoxes["137.6"], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
+                  GeneralUtilities`Slice[10, 
+                   Key["slope"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
                 Alignment -> {Left, Baseline}]}, {
                Pane[
                 Annotation["Nyuserre_Ini", 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[11, 
                    Key["pyramid"]]], "Mouse"], 
                 ImageSize -> {{115.20000000000002`, Full}, Automatic}, 
@@ -8442,7 +8625,7 @@ Cell[BoxData[
                     Rational[33, 74], 
                     Rational[27, 74], 
                     Rational[117, 370]}]]], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[11, 
                    Key["distance_to_cairo"]]], "Mouse"], 
                 ImageSize -> {{75, Full}, Automatic}, 
@@ -8450,14 +8633,30 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["51.68"], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[11, 
                    Key["height"]]], "Mouse"], 
+                ImageSize -> {{60, Full}, Automatic}, 
+                Alignment -> {Left, Baseline}], 
+               Pane[
+                Annotation[
+                 RawBoxes["2500"], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
+                  GeneralUtilities`Slice[11, 
+                   Key["time"]]], "Mouse"], 
+                ImageSize -> {{34, Full}, Automatic}, 
+                Alignment -> {Left, Baseline}], 
+               Pane[
+                Annotation[
+                 RawBoxes["123.4"], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
+                  GeneralUtilities`Slice[11, 
+                   Key["slope"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
                 Alignment -> {Left, Baseline}]}, {
                Pane[
                 Annotation["Amenemhat I", 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[12, 
                    Key["pyramid"]]], "Mouse"], 
                 ImageSize -> {{115.20000000000002`, Full}, Automatic}, 
@@ -8471,7 +8670,7 @@ Cell[BoxData[
                     Rational[33, 74], 
                     Rational[27, 74], 
                     Rational[117, 370]}]]], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[12, 
                    Key["distance_to_cairo"]]], "Mouse"], 
                 ImageSize -> {{75, Full}, Automatic}, 
@@ -8479,14 +8678,30 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["55"], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[12, 
                    Key["height"]]], "Mouse"], 
+                ImageSize -> {{60, Full}, Automatic}, 
+                Alignment -> {Left, Baseline}], 
+               Pane[
+                Annotation[
+                 RawBoxes["1962"], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
+                  GeneralUtilities`Slice[12, 
+                   Key["time"]]], "Mouse"], 
+                ImageSize -> {{34, Full}, Automatic}, 
+                Alignment -> {Left, Baseline}], 
+               Pane[
+                Annotation[
+                 RawBoxes["137.6"], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
+                  GeneralUtilities`Slice[12, 
+                   Key["slope"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
                 Alignment -> {Left, Baseline}]}, {
                Pane[
                 Annotation["Senusret I", 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[13, 
                    Key["pyramid"]]], "Mouse"], 
                 ImageSize -> {{115.20000000000002`, Full}, Automatic}, 
@@ -8500,7 +8715,7 @@ Cell[BoxData[
                     Rational[33, 74], 
                     Rational[27, 74], 
                     Rational[117, 370]}]]], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[13, 
                    Key["distance_to_cairo"]]], "Mouse"], 
                 ImageSize -> {{75, Full}, Automatic}, 
@@ -8508,14 +8723,30 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["61.25"], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[13, 
                    Key["height"]]], "Mouse"], 
+                ImageSize -> {{60, Full}, Automatic}, 
+                Alignment -> {Left, Baseline}], 
+               Pane[
+                Annotation[
+                 RawBoxes["1926"], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
+                  GeneralUtilities`Slice[13, 
+                   Key["time"]]], "Mouse"], 
+                ImageSize -> {{34, Full}, Automatic}, 
+                Alignment -> {Left, Baseline}], 
+               Pane[
+                Annotation[
+                 RawBoxes["115"], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
+                  GeneralUtilities`Slice[13, 
+                   Key["slope"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
                 Alignment -> {Left, Baseline}]}, {
                Pane[
                 Annotation["Senusret II", 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[14, 
                    Key["pyramid"]]], "Mouse"], 
                 ImageSize -> {{115.20000000000002`, Full}, Automatic}, 
@@ -8529,7 +8760,7 @@ Cell[BoxData[
                     Rational[33, 74], 
                     Rational[27, 74], 
                     Rational[117, 370]}]]], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[14, 
                    Key["distance_to_cairo"]]], "Mouse"], 
                 ImageSize -> {{75, Full}, Automatic}, 
@@ -8537,14 +8768,30 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["48.65"], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[14, 
                    Key["height"]]], "Mouse"], 
+                ImageSize -> {{60, Full}, Automatic}, 
+                Alignment -> {Left, Baseline}], 
+               Pane[
+                Annotation[
+                 RawBoxes["1837"], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
+                  GeneralUtilities`Slice[14, 
+                   Key["time"]]], "Mouse"], 
+                ImageSize -> {{34, Full}, Automatic}, 
+                Alignment -> {Left, Baseline}], 
+               Pane[
+                Annotation[
+                 RawBoxes["90"], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
+                  GeneralUtilities`Slice[14, 
+                   Key["slope"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
                 Alignment -> {Left, Baseline}]}, {
                Pane[
                 Annotation["Amenemhat III", 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[15, 
                    Key["pyramid"]]], "Mouse"], 
                 ImageSize -> {{115.20000000000002`, Full}, Automatic}, 
@@ -8558,7 +8805,7 @@ Cell[BoxData[
                     Rational[33, 74], 
                     Rational[27, 74], 
                     Rational[117, 370]}]]], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[15, 
                    Key["distance_to_cairo"]]], "Mouse"], 
                 ImageSize -> {{75, Full}, Automatic}, 
@@ -8566,14 +8813,30 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["75"], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[15, 
                    Key["height"]]], "Mouse"], 
+                ImageSize -> {{60, Full}, Automatic}, 
+                Alignment -> {Left, Baseline}], 
+               Pane[
+                Annotation[
+                 RawBoxes["2055"], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
+                  GeneralUtilities`Slice[15, 
+                   Key["time"]]], "Mouse"], 
+                ImageSize -> {{34, Full}, Automatic}, 
+                Alignment -> {Left, Baseline}], 
+               Pane[
+                Annotation[
+                 RawBoxes["166"], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
+                  GeneralUtilities`Slice[15, 
+                   Key["slope"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
                 Alignment -> {Left, Baseline}]}, {
                Pane[
                 Annotation["Khendjer", 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[16, 
                    Key["pyramid"]]], "Mouse"], 
                 ImageSize -> {{115.20000000000002`, Full}, Automatic}, 
@@ -8587,7 +8850,7 @@ Cell[BoxData[
                     Rational[33, 74], 
                     Rational[27, 74], 
                     Rational[117, 370]}]]], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[16, 
                    Key["distance_to_cairo"]]], "Mouse"], 
                 ImageSize -> {{75, Full}, Automatic}, 
@@ -8595,9 +8858,25 @@ Cell[BoxData[
                Pane[
                 Annotation[
                  RawBoxes["37.35"], 
-                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
                   GeneralUtilities`Slice[16, 
                    Key["height"]]], "Mouse"], 
+                ImageSize -> {{60, Full}, Automatic}, 
+                Alignment -> {Left, Baseline}], 
+               Pane[
+                Annotation[
+                 RawBoxes["1760"], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
+                  GeneralUtilities`Slice[16, 
+                   Key["time"]]], "Mouse"], 
+                ImageSize -> {{34, Full}, Automatic}, 
+                Alignment -> {Left, Baseline}], 
+               Pane[
+                Annotation[
+                 RawBoxes["142.8"], 
+                 TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
+                  GeneralUtilities`Slice[16, 
+                   Key["slope"]]], "Mouse"], 
                 ImageSize -> {{60, Full}, Automatic}, 
                 Alignment -> {Left, Baseline}]}}, BaseStyle -> {ContextMenu -> {
                  MenuItem["Copy position to clipboard", 
@@ -8633,8 +8912,8 @@ Cell[BoxData[
          TypeSystem`NestedGrid`PackagePrivate`setupViewPath[
          TypeSystem`NestedGrid`PackagePrivate`$path$$, If[
             Not[TypeSystem`NestedGrid`PackagePrivate`initialQ], 
-            
-            Module[{TypeSystem`NestedGrid`PackagePrivate`tmpGrid$ = $Failed, 
+            Module[{
+             TypeSystem`NestedGrid`PackagePrivate`tmpGrid$ = $Failed, 
               TypeSystem`NestedGrid`PackagePrivate`tmpData$ = 
               TypeSystem`NestedGrid`PackagePrivate`LookupCacheValue[
                 TypeSystem`NestedGrid`PackagePrivate`$state$$["Data"]]}, 
@@ -8646,7 +8925,7 @@ Cell[BoxData[
                 TypeSystem`NestedGrid`PackagePrivate`$state$$, 
                  TypeSystem`NestedGrid`PackagePrivate`$path$$, 
                  TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-                 TypeSystem`NestedGrid`PackagePrivate`$grid$$, 1057464643][
+                 TypeSystem`NestedGrid`PackagePrivate`$grid$$, 1024075475][
                 TypeSystem`NestedGrid`PackagePrivate`tmpData$]]; If[
                Not[
                 FailureQ[TypeSystem`NestedGrid`PackagePrivate`tmpGrid$]], 
@@ -8677,14 +8956,14 @@ Cell[BoxData[
            TypeSystem`NestedGrid`PackagePrivate`$state$$, 
             TypeSystem`NestedGrid`PackagePrivate`$path$$, 
             TypeSystem`NestedGrid`PackagePrivate`$pos$$, 
-            TypeSystem`NestedGrid`PackagePrivate`$grid$$, 1057464643]]]], 
+            TypeSystem`NestedGrid`PackagePrivate`$grid$$, 1024075475]]]], 
         TrackedSymbols :> {TypeSystem`NestedGrid`PackagePrivate`$path$$}], 
       TypeSystem`NestedGrid`PackagePrivate`$bottomBar$$ = Framed[
         Dynamic[
          Replace[
           MouseAnnotation[Null], {
-          TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][Null] -> 
-           "", TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1057464643][
+          TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][Null] -> 
+           "", TypeSystem`NestedGrid`PackagePrivate`$SliceMarker[1024075475][
              Pattern[TypeSystem`NestedGrid`PackagePrivate`path, 
               Blank[]]] :> (
             TypeSystem`NestedGrid`PackagePrivate`$lastPath = 
@@ -8718,7 +8997,7 @@ Cell[BoxData[
            TypeSystem`NestedGrid`PackagePrivate`$bottomBar$$]]}], Spacings -> 
         If[TypeSystem`NestedGrid`PackagePrivate`$path$$ == {}, 
           0, {{}, {0, 0.05, 0}}]], StandardForm], 
-      ImageSizeCache -> {313., {217., 223.}}, 
+      ImageSizeCache -> {425., {217., 223.}}, 
       TrackedSymbols :> {
        TypeSystem`NestedGrid`PackagePrivate`$state$$, 
         TypeSystem`NestedGrid`PackagePrivate`$grid$$}], 
@@ -8731,19 +9010,22 @@ Cell[BoxData[
   "CopyTag",
   DisplayFunction->(#& ),
   InterpretationFunction->("Dataset[<>]"& )]], "Output",
- CellChangeTimes->{3.770740768900866*^9},
- CellLabel->"Out[78]=",ExpressionUUID->"1b9050cf-67f7-499d-b243-40ffa42ba52e"]
+ CellChangeTimes->{3.770740768900866*^9, 3.7707420244548016`*^9, 
+  3.770745776867725*^9, 3.7707558719098997`*^9, 3.77075750559157*^9, 
+  3.770761799184875*^9, 3.770762032403179*^9},
+ CellLabel->"Out[22]=",ExpressionUUID->"9bf7b053-19bc-45ed-a238-072d12fe3e7f"]
 }, Open  ]],
 
 Cell[CellGroupData[{
 
 Cell[BoxData[
- RowBox[{"SpearmanRankTest", "[", 
+ RowBox[{"CorrelationTest", "[", 
   RowBox[{
    RowBox[{"Lookup", "[", 
-    RowBox[{"data2", ",", "\"\<height\>\""}], "]"}], ",", 
-   RowBox[{"Lookup", "[", 
-    RowBox[{"data2", ",", "\"\<distance_to_cairo\>\""}], "]"}], ",", 
+    RowBox[{"data2", ",", 
+     RowBox[{"{", 
+      RowBox[{"\"\<height\>\"", ",", "\"\<distance_to_cairo\>\""}], "}"}]}], 
+    "]"}], ",", "0", ",", 
    RowBox[{"{", 
     RowBox[{"\"\<TestDataTable\>\"", ",", "\"\<TestConclusion\>\""}], "}"}]}],
    "]"}]], "Input",
@@ -8751,8 +9033,9 @@ Cell[BoxData[
   3.770682534027377*^9, 3.7706825356832867`*^9}, {3.7706826948847537`*^9, 
   3.7706827103015594`*^9}, {3.7706831192919703`*^9, 3.7706831935356445`*^9}, {
   3.770717975827359*^9, 3.770718026791415*^9}, {3.770740794785634*^9, 
-  3.770740810462651*^9}},
- CellLabel->"In[79]:=",ExpressionUUID->"d5c95bff-48d1-4224-bde9-573ca2b05dcd"],
+  3.770740810462651*^9}, {3.7707453847529206`*^9, 3.7707453876432905`*^9}, {
+  3.7707455310826473`*^9, 3.770745559217973*^9}},
+ CellLabel->"In[23]:=",ExpressionUUID->"d5c95bff-48d1-4224-bde9-573ca2b05dcd"],
 
 Cell[BoxData[
  RowBox[{"{", 
@@ -8761,7 +9044,7 @@ Cell[BoxData[
     TagBox[GridBox[{
        {"\<\"\"\>", "\<\"Statistic\"\>", "\<\"P\[Hyphen]Value\"\>"},
        {"\<\"Spearman Rank\"\>", 
-        RowBox[{"-", "0.2`"}], "0.45768790507519996`"}
+        RowBox[{"-", "0.2`"}], "0.46480198597332345`"}
       },
       AutoDelete->False,
       GridBoxAlignment->{"Columns" -> {{Left}}, "Rows" -> {{Automatic}}},
@@ -8774,29 +9057,614 @@ Cell[BoxData[
     StripOnInput->False], ",", 
    TemplateBox[{
     "\"The null hypothesis that \"",
-     TemplateBox[{"\"the populations are independent \""}, "RowDefault"],
+     TemplateBox[{
+      "\"the population \"", "\"rank correlation coefficient\"", 
+       "\" is equal to \"", "\"0.\"", "\" \""}, "RowDefault"],
      "\"is not rejected at the \"",
      TemplateBox[{"5", "\" percent level \""}, "RowDefault"],
      TemplateBox[{"\"based on the \"", "\"Spearman Rank\"", "\" test.\""}, 
       "RowDefault"]},
     "RowDefault"]}], "}"}]], "Output",
- CellChangeTimes->{3.770740811787165*^9},
- CellLabel->"Out[79]=",ExpressionUUID->"22478505-a6f0-4f1a-9167-f2e79843cbfa"]
+ CellChangeTimes->{
+  3.770740811787165*^9, 3.7707420246004457`*^9, 3.7707453883651505`*^9, {
+   3.770745533631508*^9, 3.7707455600298424`*^9}, 3.770745777039561*^9, 
+   3.7707558721323037`*^9, 3.77075750580593*^9, 3.770761799364394*^9, 
+   3.77076203256629*^9},
+ CellLabel->"Out[23]=",ExpressionUUID->"68e5b381-4355-45d8-9d8f-216e0cda6dd8"]
 }, Open  ]],
 
 Cell["\<\
 Unfortunately there is no statistical evidence that height and distance to \
-Cairo are correlated.\
+Cairo are correlated but let\[CloseCurlyQuote]s look at it any way\
 \>", "Text",
  CellChangeTimes->{{3.7706832138722353`*^9, 3.7706832811522074`*^9}, {
-  3.770740978713435*^9, 
-  3.77074098283042*^9}},ExpressionUUID->"f6f8deea-089c-431a-8a24-\
-4259fcb0548d"]
+  3.770740978713435*^9, 3.77074098283042*^9}, {3.7707589127529325`*^9, 
+  3.7707589241790233`*^9}},ExpressionUUID->"f6f8deea-089c-431a-8a24-\
+4259fcb0548d"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"ListPlot", "[", 
+  RowBox[{
+   RowBox[{"Table", "[", 
+    RowBox[{
+     RowBox[{"Labeled", "[", 
+      RowBox[{
+       RowBox[{
+        RowBox[{"Lookup", "[", 
+         RowBox[{"data2", ",", 
+          RowBox[{"{", 
+           RowBox[{"\"\<distance_to_cairo\>\"", ",", "\"\<height\>\""}], 
+           "}"}]}], "]"}], "\[LeftDoubleBracket]", "i", 
+        "\[RightDoubleBracket]"}], ",", 
+       RowBox[{
+        RowBox[{"Lookup", "[", 
+         RowBox[{"data2", ",", "\"\<pyramid\>\""}], "]"}], 
+        "\[LeftDoubleBracket]", "i", "\[RightDoubleBracket]"}]}], "]"}], ",", 
+     RowBox[{"{", 
+      RowBox[{"i", ",", 
+       RowBox[{"Length", "@", "data"}]}], "}"}]}], "]"}], ",", 
+   RowBox[{"Filling", "->", "Axis"}]}], "]"}]], "Input",
+ CellChangeTimes->{{3.770758025559141*^9, 3.770758147298377*^9}, {
+   3.7707582622058926`*^9, 3.7707582865976343`*^9}, {3.7707585901343927`*^9, 
+   3.7707585957681236`*^9}, 3.7707586627255287`*^9, {3.7707587256289454`*^9, 
+   3.770758748398733*^9}},
+ CellLabel->"In[24]:=",ExpressionUUID->"33fa4ba0-1878-4dad-ae34-1555b05a8f85"],
+
+Cell[BoxData[
+ GraphicsBox[{{}, GraphicsComplexBox[CompressedData["
+1:eJxTTMoPSmViYGAwAGIwzfNwVb2/lgMDCDj4O9xcbZhqu9fIof/QV40Y/SgH
+ebnuUJVlhlD5KIe/nZJ3TfzdHWbNBIKXYQ7dWekVp84oOqSBQFiSw5/ZWhUK
+CUoOZ88AAU+ig+6aNUUGb5Sg+gMcZvD23Yr7pAnhN3g4qD9ITtjFqQ7luzts
+961T+p2n7mAMBkEORdWXBcMC1B2uLy6w5bru6bCW9bO3yE4HqHpvh0cyO9xO
+2jpC+Av8HD4k/fq2ebsvRH+wh4PljU1Pn/UYQeQPBDnY20/iu9+hD3HfGicH
+FP8DAcz/MD6K/4EA5n8YH+Z/GB/mfxgfxf9AgOJ/IEDxPxDA/A/jw/wP46P4
+HwhQ/A8EMP/D+Cj+BwKY/2H8kR7/AFMU7+E=
+    "], {{{}, {}, {}, {}, 
+      {RGBColor[0.368417, 0.506779, 0.709798], Opacity[0.3], LineBox[{17, 1}],
+        LineBox[{18, 2}], LineBox[{19, 3}], LineBox[{20, 4}], 
+       LineBox[{21, 5}], LineBox[{22, 6}], LineBox[{23, 7}], LineBox[{24, 8}],
+        LineBox[{25, 9}], LineBox[{26, 10}], LineBox[{27, 11}], 
+       LineBox[{28, 12}], LineBox[{29, 13}], LineBox[{30, 14}], 
+       LineBox[{31, 15}], LineBox[{32, 16}]}}, 
+     {RGBColor[0.368417, 0.506779, 0.709798], PointSize[
+      0.012833333333333334`], AbsoluteThickness[1.6], 
+      PointBox[{33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 
+       48}]}, {
+      {RGBColor[0.368417, 0.506779, 0.709798], PointSize[
+       0.012833333333333334`], AbsoluteThickness[1.6]}, {}}, {
+      {RGBColor[0.368417, 0.506779, 0.709798], PointSize[
+       0.012833333333333334`], AbsoluteThickness[1.6]}, {}}, {
+      TagBox[
+       {Opacity[0.], PointBox[33]},
+       Annotation[#, {{Labeled}, Charting`Private`Tag$508145, {1}}]& ], 
+      TagBox[
+       {Opacity[0.], PointBox[34]},
+       Annotation[#, {{Labeled}, Charting`Private`Tag$508145, {2}}]& ], 
+      TagBox[
+       {Opacity[0.], PointBox[35]},
+       Annotation[#, {{Labeled}, Charting`Private`Tag$508145, {3}}]& ], 
+      TagBox[
+       {Opacity[0.], PointBox[36]},
+       Annotation[#, {{Labeled}, Charting`Private`Tag$508145, {4}}]& ], 
+      TagBox[
+       {Opacity[0.], PointBox[37]},
+       Annotation[#, {{Labeled}, Charting`Private`Tag$508145, {5}}]& ], 
+      TagBox[
+       {Opacity[0.], PointBox[38]},
+       Annotation[#, {{Labeled}, Charting`Private`Tag$508145, {6}}]& ], 
+      TagBox[
+       {Opacity[0.], PointBox[39]},
+       Annotation[#, {{Labeled}, Charting`Private`Tag$508145, {7}}]& ], 
+      TagBox[
+       {Opacity[0.], PointBox[40]},
+       Annotation[#, {{Labeled}, Charting`Private`Tag$508145, {8}}]& ], 
+      TagBox[
+       {Opacity[0.], PointBox[41]},
+       Annotation[#, {{Labeled}, Charting`Private`Tag$508145, {9}}]& ], 
+      TagBox[
+       {Opacity[0.], PointBox[42]},
+       Annotation[#, {{Labeled}, Charting`Private`Tag$508145, {10}}]& ], 
+      TagBox[
+       {Opacity[0.], PointBox[43]},
+       Annotation[#, {{Labeled}, Charting`Private`Tag$508145, {11}}]& ], 
+      TagBox[
+       {Opacity[0.], PointBox[44]},
+       Annotation[#, {{Labeled}, Charting`Private`Tag$508145, {12}}]& ], 
+      TagBox[
+       {Opacity[0.], PointBox[45]},
+       Annotation[#, {{Labeled}, Charting`Private`Tag$508145, {13}}]& ], 
+      TagBox[
+       {Opacity[0.], PointBox[46]},
+       Annotation[#, {{Labeled}, Charting`Private`Tag$508145, {14}}]& ], 
+      TagBox[
+       {Opacity[0.], PointBox[47]},
+       Annotation[#, {{Labeled}, Charting`Private`Tag$508145, {15}}]& ], 
+      TagBox[
+       {Opacity[0.], PointBox[48]},
+       Annotation[#, {{Labeled}, Charting`Private`Tag$508145, {
+         16}}]& ]}}], {{{{}, {GraphicsGroupBox[{
+         {EdgeForm[None], FaceForm[{GrayLevel[1], Opacity[
+           NCache[
+            Rational[2, 3], 0.6666666666666666]]}], 
+          PolygonBox[{
+           Offset[{49., 14.000000000000005`}, {16.08194571960857, 
+             38.63079959903738}], 
+            Offset[{49., 5.329070518200751*^-15}, {16.08194571960857, 
+             38.63079959903738}], 
+            Offset[{0., -5.329070518200751*^-15}, {16.08194571960857, 
+             38.63079959903738}], 
+            Offset[{0., 13.999999999999995`}, {16.08194571960857, 
+             38.63079959903738}]}]}, 
+         {RGBColor[
+          0.6666666666666666, 0.6666666666666666, 0.6666666666666666], 
+          AbsoluteThickness[1.25], EdgeForm[None]}, {}, InsetBox[
+          StyleBox[
+           RotationBox["\<\"Khendjer\"\>",
+            BoxRotation->0.],
+           StripOnInput->False,
+           LineOpacity->1,
+           FrontFaceOpacity->1,
+           BackFaceOpacity->1,
+           Opacity->1,
+           FontOpacity->1], 
+          Offset[{24.5, 7.}, {16.08194571960857, 38.63079959903738}], \
+{0, 0}]}], GraphicsGroupBox[{
+         {EdgeForm[None], FaceForm[{GrayLevel[1], Opacity[
+           NCache[
+            Rational[2, 3], 0.6666666666666666]]}], 
+          PolygonBox[{
+           Offset[{75., 13.000000000000007`}, {18.865017142958727`, 
+             76.28079959903738}], 
+            Offset[{75., 7.993605777301127*^-15}, {18.865017142958727`, 
+             76.28079959903738}], 
+            Offset[{0., -7.993605777301127*^-15}, {18.865017142958727`, 
+             76.28079959903738}], 
+            Offset[{0., 12.999999999999993`}, {18.865017142958727`, 
+             76.28079959903738}]}]}, 
+         {RGBColor[
+          0.6666666666666666, 0.6666666666666666, 0.6666666666666666], 
+          AbsoluteThickness[1.25], EdgeForm[None]}, {}, InsetBox[
+          StyleBox[
+           RotationBox["\<\"Amenemhat III\"\>",
+            BoxRotation->0.],
+           StripOnInput->False,
+           LineOpacity->1,
+           FrontFaceOpacity->1,
+           BackFaceOpacity->1,
+           Opacity->1,
+           FontOpacity->1], 
+          Offset[{37.5, 6.5}, {18.865017142958727, 76.28079959903738}], \
+{0, 0}]}], GraphicsGroupBox[{
+         {EdgeForm[None], FaceForm[{GrayLevel[1], Opacity[
+           NCache[
+            Rational[2, 3], 0.6666666666666666]]}], 
+          PolygonBox[{
+           Offset[{0., 13.000000000000007`}, {59.120560658194705`, 
+             49.93079959903738}], 
+            Offset[{0., 6.217248937900877*^-15}, {59.120560658194705`, 
+             49.93079959903738}], 
+            Offset[{-55., -6.217248937900877*^-15}, {59.120560658194705`, 
+             49.93079959903738}], 
+            Offset[{-55., 12.999999999999993`}, {59.120560658194705`, 
+             49.93079959903738}]}]}, 
+         {RGBColor[
+          0.6666666666666666, 0.6666666666666666, 0.6666666666666666], 
+          AbsoluteThickness[1.25], EdgeForm[None]}, {}, InsetBox[
+          StyleBox[
+           RotationBox["\<\"Senusret II\"\>",
+            BoxRotation->0.],
+           StripOnInput->False,
+           LineOpacity->1,
+           FrontFaceOpacity->1,
+           BackFaceOpacity->1,
+           Opacity->1,
+           FontOpacity->1], 
+          Offset[{-27.5, 6.5}, {59.120560658194705, 49.93079959903738}], \
+{0, 0}]}], GraphicsGroupBox[{
+         {EdgeForm[None], FaceForm[{GrayLevel[1], Opacity[
+           NCache[
+            Rational[2, 3], 0.6666666666666666]]}], 
+          PolygonBox[{
+           Offset[{52., 13.000000000000005`}, {34.797323893957795`, 
+             62.53079959903738}], 
+            Offset[{52., 5.329070518200751*^-15}, {34.797323893957795`, 
+             62.53079959903738}], 
+            Offset[{0., -5.329070518200751*^-15}, {34.797323893957795`, 
+             62.53079959903738}], 
+            Offset[{0., 12.999999999999995`}, {34.797323893957795`, 
+             62.53079959903738}]}]}, 
+         {RGBColor[
+          0.6666666666666666, 0.6666666666666666, 0.6666666666666666], 
+          AbsoluteThickness[1.25], EdgeForm[None]}, {}, InsetBox[
+          StyleBox[
+           RotationBox["\<\"Senusret I\"\>",
+            BoxRotation->0.],
+           StripOnInput->False,
+           LineOpacity->1,
+           FrontFaceOpacity->1,
+           BackFaceOpacity->1,
+           Opacity->1,
+           FontOpacity->1], 
+          Offset[{26., 6.5}, {34.797323893957795, 62.53079959903738}], \
+{0, 0}]}], GraphicsGroupBox[{
+         {EdgeForm[None], FaceForm[{GrayLevel[1], Opacity[
+           NCache[
+            Rational[2, 3], 0.6666666666666666]]}], 
+          PolygonBox[{
+           Offset[{69., 7.993605777301127*^-15}, {33.76055083579542, 
+             53.71920040096262}], 
+            Offset[{69., -12.999999999999993`}, {33.76055083579542, 
+             53.71920040096262}], 
+            Offset[{0., -13.000000000000007`}, {33.76055083579542, 
+             53.71920040096262}], 
+            Offset[{0., -7.993605777301127*^-15}, {33.76055083579542, 
+             53.71920040096262}]}]}, 
+         {RGBColor[
+          0.6666666666666666, 0.6666666666666666, 0.6666666666666666], 
+          AbsoluteThickness[1.25], EdgeForm[None]}, {}, InsetBox[
+          StyleBox[
+           RotationBox["\<\"Amenemhat I\"\>",
+            BoxRotation->0.],
+           StripOnInput->False,
+           LineOpacity->1,
+           FrontFaceOpacity->1,
+           BackFaceOpacity->1,
+           Opacity->1,
+           FontOpacity->1], 
+          Offset[{34.5, -6.5}, {33.76055083579542, 53.71920040096262}], \
+{0, 0}]}], 
+       {Opacity[0], 
+        {RGBColor[0.368417, 0.506779, 0.709798], PointSize[
+         0.012833333333333334`], AbsoluteThickness[1.6]}, 
+        {RGBColor[0.368417, 0.506779, 0.709798], PointSize[
+         0.012833333333333334`], AbsoluteThickness[1.6], 
+         TagBox[
+          TooltipBox[PointBox[{11.656906659188937`, 51.68}],
+           StyleBox[
+            PaneBox[
+             FrameBox[
+             "\"Nyuserre_Ini\"", LabelStyle -> {}, Background -> None, 
+              ContentPadding -> False, LabelStyle -> {}, Frame -> True, 
+              RoundingRadius -> 4, Background -> GrayLevel[1, 0.65], 
+              FrameStyle -> None, FrameMargins -> 2, BaselinePosition -> 
+              Automatic, StripOnInput -> False], FrameMargins -> 0], {}, 
+            StripOnInput -> False]],
+          Annotation[#, 
+           Style[
+            Pane[
+             Framed[
+             "Nyuserre_Ini", LabelStyle -> {}, Background -> None, 
+              ContentPadding -> False, {
+              LabelStyle -> {}, Frame -> True, RoundingRadius -> 4, 
+               Background -> GrayLevel[1, 0.65], FrameStyle -> None, 
+               FrameMargins -> 2, BaselinePosition -> Automatic}], 
+             FrameMargins -> 0], {}], "Tooltip"]& ]}}, 
+       {Opacity[0], 
+        {RGBColor[0.368417, 0.506779, 0.709798], PointSize[
+         0.012833333333333334`], AbsoluteThickness[1.6]}, 
+        {RGBColor[0.368417, 0.506779, 0.709798], PointSize[
+         0.012833333333333334`], AbsoluteThickness[1.6], 
+         TagBox[
+          TooltipBox[PointBox[{11.716759756009976`, 72.8}],
+           StyleBox[
+            PaneBox[
+             FrameBox[
+             "\"Neferirkare Kakai\"", LabelStyle -> {}, Background -> None, 
+              ContentPadding -> False, LabelStyle -> {}, Frame -> True, 
+              RoundingRadius -> 4, Background -> GrayLevel[1, 0.65], 
+              FrameStyle -> None, FrameMargins -> 2, BaselinePosition -> 
+              Automatic, StripOnInput -> False], FrameMargins -> 0], {}, 
+            StripOnInput -> False]],
+          Annotation[#, 
+           Style[
+            Pane[
+             Framed[
+             "Neferirkare Kakai", LabelStyle -> {}, Background -> None, 
+              ContentPadding -> False, {
+              LabelStyle -> {}, Frame -> True, RoundingRadius -> 4, 
+               Background -> GrayLevel[1, 0.65], FrameStyle -> None, 
+               FrameMargins -> 2, BaselinePosition -> Automatic}], 
+             FrameMargins -> 0], {}], "Tooltip"]& ]}}, GraphicsGroupBox[{
+         {EdgeForm[None], FaceForm[{GrayLevel[1], Opacity[
+           NCache[
+            Rational[2, 3], 0.6666666666666666]]}], 
+          PolygonBox[{
+           Offset[{0., 12.000000000000004`}, {11.20438113466262, 
+             48.28079959903738}], 
+            Offset[{0., 4.440892098500626*^-15}, {11.20438113466262, 
+             48.28079959903738}], 
+            Offset[{-39., -4.440892098500626*^-15}, {11.20438113466262, 
+             48.28079959903738}], 
+            Offset[{-39., 11.999999999999996`}, {11.20438113466262, 
+             48.28079959903738}]}]}, 
+         {RGBColor[
+          0.6666666666666666, 0.6666666666666666, 0.6666666666666666], 
+          AbsoluteThickness[1.25], EdgeForm[None]}, {}, InsetBox[
+          StyleBox[
+           RotationBox["\<\"Sahure\"\>",
+            BoxRotation->0.],
+           StripOnInput->False,
+           LineOpacity->1,
+           FrontFaceOpacity->1,
+           BackFaceOpacity->1,
+           Opacity->1,
+           FontOpacity->1], 
+          Offset[{-19.5, 6.}, {11.20438113466262, 48.28079959903738}], \
+{0, 0}]}], GraphicsGroupBox[{
+         {EdgeForm[None], FaceForm[{GrayLevel[1], Opacity[
+           NCache[
+            Rational[2, 3], 0.6666666666666666]]}], 
+          PolygonBox[{
+           Offset[{39., 12.000000000000004`}, {13.287998856899566`, 
+             50.28079959903738}], 
+            Offset[{39., 4.440892098500626*^-15}, {13.287998856899566`, 
+             50.28079959903738}], 
+            Offset[{0., -4.440892098500626*^-15}, {13.287998856899566`, 
+             50.28079959903738}], 
+            Offset[{0., 11.999999999999996`}, {13.287998856899566`, 
+             50.28079959903738}]}]}, 
+         {RGBColor[
+          0.6666666666666666, 0.6666666666666666, 0.6666666666666666], 
+          AbsoluteThickness[1.25], EdgeForm[None]}, {}, InsetBox[
+          StyleBox[
+           RotationBox["\<\"Userkaf\"\>",
+            BoxRotation->0.],
+           StripOnInput->False,
+           LineOpacity->1,
+           FrontFaceOpacity->1,
+           BackFaceOpacity->1,
+           Opacity->1,
+           FontOpacity->1], 
+          Offset[{19.5, 6.}, {13.287998856899566, 50.28079959903738}], \
+{0, 0}]}], 
+       {Opacity[0], 
+        {RGBColor[0.368417, 0.506779, 0.709798], PointSize[
+         0.012833333333333334`], AbsoluteThickness[1.6]}, 
+        {RGBColor[0.368417, 0.506779, 0.709798], PointSize[
+         0.012833333333333334`], AbsoluteThickness[1.6], 
+         TagBox[
+          TooltipBox[PointBox[{9.461307128503984, 65.}],
+           StyleBox[
+            PaneBox[
+             FrameBox[
+             "\"Menkaure\"", LabelStyle -> {}, Background -> None, 
+              ContentPadding -> False, LabelStyle -> {}, Frame -> True, 
+              RoundingRadius -> 4, Background -> GrayLevel[1, 0.65], 
+              FrameStyle -> None, FrameMargins -> 2, BaselinePosition -> 
+              Automatic, StripOnInput -> False], FrameMargins -> 0], {}, 
+            StripOnInput -> False]],
+          Annotation[#, 
+           Style[
+            Pane[
+             Framed[
+             "Menkaure", LabelStyle -> {}, Background -> None, ContentPadding -> 
+              False, {LabelStyle -> {}, Frame -> True, RoundingRadius -> 4, 
+               Background -> GrayLevel[1, 0.65], FrameStyle -> None, 
+               FrameMargins -> 2, BaselinePosition -> Automatic}], 
+             FrameMargins -> 0], {}], "Tooltip"]& ]}}, GraphicsGroupBox[{
+         {EdgeForm[None], FaceForm[{GrayLevel[1], Opacity[
+           NCache[
+            Rational[2, 3], 0.6666666666666666]]}], 
+          PolygonBox[{
+           Offset[{36., 12.000000000000004`}, {9.502366652234254, 
+             137.68079959903739`}], 
+            Offset[{36., 3.552713678800501*^-15}, {9.502366652234254, 
+             137.68079959903739`}], 
+            Offset[{0., -3.552713678800501*^-15}, {9.502366652234254, 
+             137.68079959903739`}], 
+            Offset[{0., 11.999999999999996`}, {9.502366652234254, 
+             137.68079959903739`}]}]}, 
+         {RGBColor[
+          0.6666666666666666, 0.6666666666666666, 0.6666666666666666], 
+          AbsoluteThickness[1.25], EdgeForm[None]}, {}, InsetBox[
+          StyleBox[
+           RotationBox["\<\"Khafre\"\>",
+            BoxRotation->0.],
+           StripOnInput->False,
+           LineOpacity->1,
+           FrontFaceOpacity->1,
+           BackFaceOpacity->1,
+           Opacity->1,
+           FontOpacity->1], 
+          Offset[{18., 6.}, {9.502366652234254, 137.68079959903739}], \
+{0, 0}]}], GraphicsGroupBox[{
+         {EdgeForm[None], FaceForm[{GrayLevel[1], Opacity[
+           NCache[
+            Rational[2, 3], 0.6666666666666666]]}], 
+          PolygonBox[{
+           Offset[{33., 12.000000000000004`}, {9.214601156383418, 
+             147.98079959903737`}], 
+            Offset[{33., 3.552713678800501*^-15}, {9.214601156383418, 
+             147.98079959903737`}], 
+            Offset[{0., -3.552713678800501*^-15}, {9.214601156383418, 
+             147.98079959903737`}], 
+            Offset[{0., 11.999999999999996`}, {9.214601156383418, 
+             147.98079959903737`}]}]}, 
+         {RGBColor[
+          0.6666666666666666, 0.6666666666666666, 0.6666666666666666], 
+          AbsoluteThickness[1.25], EdgeForm[None]}, {}, InsetBox[
+          StyleBox[
+           RotationBox["\<\"Khufu\"\>",
+            BoxRotation->0.],
+           StripOnInput->False,
+           LineOpacity->1,
+           FrontFaceOpacity->1,
+           BackFaceOpacity->1,
+           Opacity->1,
+           FontOpacity->1], 
+          Offset[{16.5, 6.}, {9.214601156383418, 147.98079959903737}], \
+{0, 0}]}], GraphicsGroupBox[{
+         {EdgeForm[None], FaceForm[{GrayLevel[1], Opacity[
+           NCache[
+            Rational[2, 3], 0.6666666666666666]]}], 
+          PolygonBox[{
+           Offset[{0., 14.00000000000001}, {46.304181840837835`, 
+             92.93079959903739}], 
+            Offset[{0., 9.769962616701378*^-15}, {46.304181840837835`, 
+             92.93079959903739}], 
+            Offset[{-87., -9.769962616701378*^-15}, {46.304181840837835`, 
+             92.93079959903739}], 
+            Offset[{-87., 13.99999999999999}, {46.304181840837835`, 
+             92.93079959903739}]}]}, 
+         {RGBColor[
+          0.6666666666666666, 0.6666666666666666, 0.6666666666666666], 
+          AbsoluteThickness[1.25], EdgeForm[None]}, {}, InsetBox[
+          StyleBox[
+           RotationBox["\<\"Sneferu_Meidum\"\>",
+            BoxRotation->0.],
+           StripOnInput->False,
+           LineOpacity->1,
+           FrontFaceOpacity->1,
+           BackFaceOpacity->1,
+           Opacity->1,
+           FontOpacity->1], 
+          Offset[{-43.5, 7.}, {46.304181840837835, 92.93079959903739}], \
+{0, 0}]}], GraphicsGroupBox[{
+         {EdgeForm[None], FaceForm[{GrayLevel[1], Opacity[
+           NCache[
+            Rational[2, 3], 0.6666666666666666]]}], 
+          PolygonBox[{
+           Offset[{0., 14.000000000000007`}, {17.33437298482172, 
+             106.28079959903738`}], 
+            Offset[{0., 7.105427357601002*^-15}, {17.33437298482172, 
+             106.28079959903738`}], 
+            Offset[{-63., -7.105427357601002*^-15}, {17.33437298482172, 
+             106.28079959903738`}], 
+            Offset[{-63., 13.999999999999993`}, {17.33437298482172, 
+             106.28079959903738`}]}]}, 
+         {RGBColor[
+          0.6666666666666666, 0.6666666666666666, 0.6666666666666666], 
+          AbsoluteThickness[1.25], EdgeForm[None]}, {}, InsetBox[
+          StyleBox[
+           RotationBox["\<\"Sneferu_red\"\>",
+            BoxRotation->0.],
+           StripOnInput->False,
+           LineOpacity->1,
+           FrontFaceOpacity->1,
+           BackFaceOpacity->1,
+           Opacity->1,
+           FontOpacity->1], 
+          Offset[{-31.5, 7.}, {17.33437298482172, 106.28079959903738}], \
+{0, 0}]}], GraphicsGroupBox[{
+         {EdgeForm[None], FaceForm[{GrayLevel[1], Opacity[
+           NCache[
+            Rational[2, 3], 0.6666666666666666]]}], 
+          PolygonBox[{
+           Offset[{69., 14.000000000000007`}, {19.053836998137122`, 
+             106.02079959903737`}], 
+            Offset[{69., 7.993605777301127*^-15}, {19.053836998137122`, 
+             106.02079959903737`}], 
+            Offset[{0., -7.993605777301127*^-15}, {19.053836998137122`, 
+             106.02079959903737`}], 
+            Offset[{0., 13.999999999999993`}, {19.053836998137122`, 
+             106.02079959903737`}]}]}, 
+         {RGBColor[
+          0.6666666666666666, 0.6666666666666666, 0.6666666666666666], 
+          AbsoluteThickness[1.25], EdgeForm[None]}, {}, InsetBox[
+          StyleBox[
+           RotationBox["\<\"Sneferu_bent\"\>",
+            BoxRotation->0.],
+           StripOnInput->False,
+           LineOpacity->1,
+           FrontFaceOpacity->1,
+           BackFaceOpacity->1,
+           Opacity->1,
+           FontOpacity->1], 
+          Offset[{34.5, 7.}, {19.053836998137122, 106.02079959903737}], \
+{0, 0}]}], GraphicsGroupBox[{
+         {EdgeForm[None], FaceForm[{GrayLevel[1], Opacity[
+           NCache[
+            Rational[2, 3], 0.6666666666666666]]}], 
+          PolygonBox[{
+           Offset[{35., 7.0000000000000036`}, {13.600209259008103`, 62.5}], 
+            Offset[{35., -6.9999999999999964`}, {13.600209259008103`, 62.5}], 
+            Offset[{0., -7.0000000000000036`}, {13.600209259008103`, 62.5}], 
+            Offset[{0., 6.9999999999999964`}, {13.600209259008103`, 62.5}]}]}, 
+         {RGBColor[
+          0.6666666666666666, 0.6666666666666666, 0.6666666666666666], 
+          AbsoluteThickness[1.25], EdgeForm[None]}, {}, InsetBox[
+          StyleBox[
+           RotationBox["\<\"Djoser\"\>",
+            BoxRotation->0.],
+           StripOnInput->False,
+           LineOpacity->1,
+           FrontFaceOpacity->1,
+           BackFaceOpacity->1,
+           Opacity->1,
+           FontOpacity->1], 
+          Offset[{17.5, 0.}, {13.600209259008103, 62.5}], {0, 0}]}]}}, {}}, \
+{}}},
+  AspectRatio->NCache[GoldenRatio^(-1), 0.6180339887498948],
+  Axes->{True, True},
+  AxesLabel->{None, None},
+  AxesOrigin->{0, 0},
+  DisplayFunction->Identity,
+  Frame->{{False, False}, {False, False}},
+  FrameLabel->{{None, None}, {None, None}},
+  FrameTicks->{{Automatic, Automatic}, {Automatic, Automatic}},
+  GridLines->{None, None},
+  GridLinesStyle->Directive[
+    GrayLevel[0.5, 0.4]],
+  Method->{
+   "OptimizePlotMarkers" -> True, 
+    "CoordinatesToolOptions" -> {"DisplayFunction" -> ({
+        (Identity[#]& )[
+         Part[#, 1]], 
+        (Identity[#]& )[
+         Part[#, 2]]}& ), "CopiedValueFunction" -> ({
+        (Identity[#]& )[
+         Part[#, 1]], 
+        (Identity[#]& )[
+         Part[#, 2]]}& )}},
+  PlotRange->{{0, 59.43517958856489}, {0, 146.7}},
+  PlotRangeClipping->True,
+  PlotRangePadding->{{
+     Scaled[0.02], 
+     Scaled[0.08]}, {
+     Scaled[0.02], 
+     Scaled[0.0970820393249937]}},
+  Ticks->{Automatic, Automatic}]], "Output",
+ CellChangeTimes->{
+  3.7707584588777714`*^9, 3.7707585966268454`*^9, 3.770758663943971*^9, {
+   3.7707587314326906`*^9, 3.770758749695286*^9}, 3.7707617995828547`*^9, 
+   3.770762032776726*^9},
+ CellLabel->"Out[24]=",ExpressionUUID->"b7fad8f9-2971-4e2e-a669-52b0404b7c41"]
+}, Open  ]],
+
+Cell["\<\
+Assuming that the axis labels are known from the input, the plot shows that \
+some pyramids such as Sahure, Djoser were early attempts and they simply didn\
+\[CloseCurlyQuote]t have the tools to get higher.\
+\>", "Text",
+ CellChangeTimes->{{3.770758948853755*^9, 3.770759087960413*^9}, {
+  3.7707592392954206`*^9, 3.7707592408423305`*^9}, {3.770759866033167*^9, 
+  3.770759928034726*^9}},ExpressionUUID->"762a49a1-0d3d-4c46-becd-\
+2c736010cb2c"],
+
+Cell[CellGroupData[{
+
+Cell["Contact: ", "Subsection",
+ CellChangeTimes->{{3.7707618796842628`*^9, 
+  3.7707618859296293`*^9}},ExpressionUUID->"d887eb80-e1a5-4876-ba95-\
+1616cd49eb25"],
+
+Cell[BoxData[
+ TemplateBox[{"\"ahmed@math.bme.hu\"",RowBox[{"Entity", "[", 
+     RowBox[{"\"InternetDomain\"", ",", "\"ahmed@math.bme.hu\""}], "]"}],
+   "\"Entity[\\\"InternetDomain\\\", \\\"ahmed@math.bme.hu\\\"]\"",
+   "\"internet domain\""},
+  "Entity"]], "Input",
+ CellChangeTimes->{
+  3.7707619151350965`*^9},ExpressionUUID->"35e872ef-2f79-48df-acbd-\
+8a468077570c"]
+}, Open  ]]
 }, Open  ]]
 }, Open  ]]
 },
-WindowSize->{1536, 781},
-WindowMargins->{{-8, Automatic}, {Automatic, -8}},
+WindowSize->{1520, 781},
+WindowMargins->{{-8, Automatic}, {Automatic, 0}},
 DockedCells->{
   Cell[
    TextData[{
@@ -8824,7 +9692,7 @@ CellTagsIndex->{
 *)
 (*CellTagsIndex
 CellTagsIndex->{
- {"Title", 493722, 8819}
+ {"Title", 532467, 9687}
  }
 *)
 (*NotebookFileOutline
@@ -8841,81 +9709,85 @@ Cell[CellGroupData[{
 Cell[2606, 66, 162, 3, 67, "Section",ExpressionUUID->"a1e3931a-982b-460a-9da4-887e69967bc1"],
 Cell[2771, 71, 753, 12, 78, "Text",ExpressionUUID->"35ade8ee-4788-4222-ae33-989e4bcd8db7"],
 Cell[CellGroupData[{
-Cell[3549, 87, 984, 25, 67, "Input",ExpressionUUID->"ff6c5184-0916-4fc3-ad13-0c697f863196"],
-Cell[4536, 114, 1376, 22, 71, "Output",ExpressionUUID->"ec8f4b57-30ba-45ea-a39e-1350fb0ec109"]
+Cell[3549, 87, 983, 25, 67, "Input",ExpressionUUID->"ff6c5184-0916-4fc3-ad13-0c697f863196"],
+Cell[4535, 114, 1517, 24, 71, "Output",ExpressionUUID->"979b883b-9a9e-4a26-b046-6ccff34e71ed"]
 }, Open  ]],
-Cell[5927, 139, 903, 15, 56, "Text",ExpressionUUID->"a2a37f0e-2543-43df-98cd-748552aaef23"],
-Cell[6833, 156, 1139, 31, 67, "Input",ExpressionUUID->"30b3e766-f3f9-4670-95e2-3fcb12f550d4"],
-Cell[7975, 189, 334, 7, 34, "Text",ExpressionUUID->"1b68ba3f-60c1-483a-abed-fbd7d7f06f6d"],
+Cell[6067, 141, 903, 15, 56, "Text",ExpressionUUID->"a2a37f0e-2543-43df-98cd-748552aaef23"],
+Cell[6973, 158, 1138, 31, 67, "Input",ExpressionUUID->"30b3e766-f3f9-4670-95e2-3fcb12f550d4"],
+Cell[8114, 191, 334, 7, 34, "Text",ExpressionUUID->"1b68ba3f-60c1-483a-abed-fbd7d7f06f6d"],
 Cell[CellGroupData[{
-Cell[8334, 200, 616, 11, 28, "Input",ExpressionUUID->"a8bd422c-a1a1-4b3d-ad1d-87f1f10ee3f1"],
-Cell[8953, 213, 633, 11, 32, "Output",ExpressionUUID->"d2a8822f-d2f2-41a5-8325-95dcd7ebd1c3"]
-}, Open  ]],
-Cell[CellGroupData[{
-Cell[9623, 229, 326, 7, 28, "Input",ExpressionUUID->"e81ac52e-104a-43a4-aeac-d60366088ccb"],
-Cell[9952, 238, 635, 10, 32, "Output",ExpressionUUID->"780a85d7-d3bc-40bb-8aef-ccba687eb477"]
+Cell[8473, 202, 615, 11, 28, "Input",ExpressionUUID->"a8bd422c-a1a1-4b3d-ad1d-87f1f10ee3f1"],
+Cell[9091, 215, 773, 13, 32, "Output",ExpressionUUID->"36ff1a64-6212-4a30-ab0a-82f105bc1be0"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[10624, 253, 423, 8, 28, "Input",ExpressionUUID->"20bbc3e8-0b0b-4c89-aff3-e9b077cafffd"],
-Cell[11050, 263, 244, 5, 32, "Output",ExpressionUUID->"71a9af20-e999-45b2-a553-2153509db868"]
+Cell[9901, 233, 325, 7, 28, "Input",ExpressionUUID->"e81ac52e-104a-43a4-aeac-d60366088ccb"],
+Cell[10229, 242, 778, 12, 32, "Output",ExpressionUUID->"092f4906-76a6-4dcc-bdf0-6510dc3ad2e7"]
 }, Open  ]],
-Cell[11309, 271, 461, 9, 34, "Text",ExpressionUUID->"252c8f64-d054-4064-96a3-f79b277489e6"],
 Cell[CellGroupData[{
-Cell[11795, 284, 344, 6, 28, "Input",ExpressionUUID->"f8abc012-07fd-417b-b42b-b90f34192ab5"],
-Cell[12142, 292, 1701, 55, 52, "Output",ExpressionUUID->"ba9e4360-1c58-4a08-b1ce-bbda5cda1048"]
+Cell[11044, 259, 422, 8, 28, "Input",ExpressionUUID->"20bbc3e8-0b0b-4c89-aff3-e9b077cafffd"],
+Cell[11469, 269, 388, 7, 32, "Output",ExpressionUUID->"b0730fe8-62ca-48d3-9113-7d11ed2388be"]
 }, Open  ]],
-Cell[13858, 350, 759, 11, 54, "Text",ExpressionUUID->"bb866a79-ccec-41aa-a435-d5ab21502dff"],
-Cell[14620, 363, 509, 10, 28, "Input",ExpressionUUID->"651d2357-bccb-4470-bd58-805169725913"],
-Cell[15132, 375, 583, 10, 34, "Text",ExpressionUUID->"a60fedde-90aa-4827-9238-587ed4164044"],
+Cell[11872, 279, 461, 9, 34, "Text",ExpressionUUID->"252c8f64-d054-4064-96a3-f79b277489e6"],
 Cell[CellGroupData[{
-Cell[15740, 389, 7472, 126, 53, "Input",ExpressionUUID->"419aa230-cc93-4b9c-badf-a0cb4944d049"],
-Cell[23215, 517, 1088, 24, 52, "Output",ExpressionUUID->"48fe878e-a5d9-405f-b22a-6ce3d0b4a70f"]
+Cell[12358, 292, 344, 6, 28, "Input",ExpressionUUID->"f8abc012-07fd-417b-b42b-b90f34192ab5"],
+Cell[12705, 300, 1847, 57, 52, "Output",ExpressionUUID->"b567eaa8-8ce8-4583-b661-c076a0b249a8"]
 }, Open  ]],
-Cell[24318, 544, 192, 3, 34, "Text",ExpressionUUID->"87342653-af72-4bcb-89ff-ae80aed11a35"],
+Cell[14567, 360, 759, 11, 54, "Text",ExpressionUUID->"bb866a79-ccec-41aa-a435-d5ab21502dff"],
+Cell[15329, 373, 509, 10, 28, "Input",ExpressionUUID->"651d2357-bccb-4470-bd58-805169725913"],
+Cell[15841, 385, 716, 11, 56, "Text",ExpressionUUID->"a60fedde-90aa-4827-9238-587ed4164044"],
 Cell[CellGroupData[{
-Cell[24535, 551, 372, 7, 28, "Input",ExpressionUUID->"9ba55e37-a06c-49ed-b353-735666433fc8"],
-Cell[24910, 560, 343, 6, 32, "Output",ExpressionUUID->"1abb5633-315d-481a-8a6c-d37f938cb5c7"]
+Cell[16582, 400, 7535, 126, 53, "Input",ExpressionUUID->"419aa230-cc93-4b9c-badf-a0cb4944d049"],
+Cell[24120, 528, 1201, 25, 52, "Output",ExpressionUUID->"dfafe654-7b2f-40a0-93b8-1b97a0e3b208"]
 }, Open  ]],
-Cell[25268, 569, 347, 7, 28, "Input",ExpressionUUID->"d5aa5836-c100-4047-b2b0-23afeb91fccc"],
+Cell[25336, 556, 192, 3, 34, "Text",ExpressionUUID->"87342653-af72-4bcb-89ff-ae80aed11a35"],
 Cell[CellGroupData[{
-Cell[25640, 580, 432, 7, 28, "Input",ExpressionUUID->"606638b9-9d6a-44b3-a23b-0edc4aff37fa"],
-Cell[26075, 589, 1621, 32, 76, "Message",ExpressionUUID->"f2b3bb39-3f71-4551-b16d-98290323c9e0"],
-Cell[27699, 623, 1564, 28, 128, "Output",ExpressionUUID->"7575bc4e-7d66-4a1d-aa37-67e19460a748"]
+Cell[25553, 563, 372, 7, 28, "Input",ExpressionUUID->"9ba55e37-a06c-49ed-b353-735666433fc8"],
+Cell[25928, 572, 487, 8, 32, "Output",ExpressionUUID->"15544382-6f2f-4208-986d-32b8d98739a7"]
+}, Open  ]],
+Cell[26430, 583, 347, 7, 28, "Input",ExpressionUUID->"d5aa5836-c100-4047-b2b0-23afeb91fccc"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[26814, 595, 221, 4, 67, "Section",ExpressionUUID->"f67d75fd-2f6b-4756-a970-00efa4889fa7"],
+Cell[27038, 601, 798, 14, 56, "Text",ExpressionUUID->"3e53d260-f9b8-49c0-a3c7-e40029e3dd23"],
+Cell[CellGroupData[{
+Cell[27861, 619, 951, 22, 62, "Input",ExpressionUUID->"876fe203-9412-4c08-a457-2360bdbeeddf"],
+Cell[28815, 643, 119222, 1972, 391, "Output",ExpressionUUID->"15bce047-309f-43ae-82b8-cb84d30213d5"]
+}, Open  ]],
+Cell[148052, 2618, 286, 6, 34, "Text",ExpressionUUID->"cc42df8c-e0f1-4300-b4a1-7c3a2f9c42e4"],
+Cell[CellGroupData[{
+Cell[148363, 2628, 2106, 36, 42, "Input",ExpressionUUID->"ab3b9135-6592-45f7-9479-5c066f0b61cf"],
+Cell[150472, 2666, 268675, 4496, 437, "Output",ExpressionUUID->"116bd5d3-6165-4cb4-93b4-98482bc86ba2"]
+}, Open  ]],
+Cell[419162, 7165, 488, 10, 56, "Text",ExpressionUUID->"5094e6a1-b284-443f-ac78-2d2ed788b5ab"],
+Cell[CellGroupData[{
+Cell[419675, 7179, 1730, 36, 28, "Input",ExpressionUUID->"a18adf5f-614a-44f1-a5a9-9421edd23ce1"],
+Cell[421408, 7217, 25812, 598, 243, "Output",ExpressionUUID->"474b2407-f6ba-415f-9d3e-a5e704d3cfb5"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[447257, 7820, 752, 16, 28, "Input",ExpressionUUID->"e0c49f8e-5100-424f-a245-e5423e88d5e5"],
+Cell[448012, 7838, 1381, 31, 49, "Output",ExpressionUUID->"69ada009-8b23-4d7b-8c2a-deb9ed971f1d"]
+}, Open  ]],
+Cell[449408, 7872, 1737, 27, 166, "Text",ExpressionUUID->"4f352dec-f0ce-4773-9277-bd47368414ff"],
+Cell[451148, 7901, 2173, 47, 72, "Input",ExpressionUUID->"bbba844f-fc64-4770-9188-b3883c83ab1d"],
+Cell[453324, 7950, 312, 7, 34, "Text",ExpressionUUID->"c38bf303-6974-4541-8938-806972fe358c"],
+Cell[CellGroupData[{
+Cell[453661, 7961, 211, 3, 28, "Input",ExpressionUUID->"b564d4d8-5a54-48ad-8208-5999696fcdf7"],
+Cell[453875, 7966, 50234, 1049, 459, "Output",ExpressionUUID->"9bf7b053-19bc-45ed-a238-072d12fe3e7f"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[504146, 9020, 852, 17, 28, "Input",ExpressionUUID->"d5c95bff-48d1-4224-bde9-573ca2b05dcd"],
+Cell[505001, 9039, 1461, 33, 49, "Output",ExpressionUUID->"68e5b381-4355-45d8-9d8f-216e0cda6dd8"]
+}, Open  ]],
+Cell[506477, 9075, 395, 7, 34, "Text",ExpressionUUID->"f6f8deea-089c-431a-8a24-4259fcb0548d"],
+Cell[CellGroupData[{
+Cell[506897, 9086, 1092, 26, 28, "Input",ExpressionUUID->"33fa4ba0-1878-4dad-ae34-1555b05a8f85"],
+Cell[507992, 9114, 22645, 518, 243, "Output",ExpressionUUID->"b7fad8f9-2971-4e2e-a669-52b0404b7c41"]
+}, Open  ]],
+Cell[530652, 9635, 455, 8, 34, "Text",ExpressionUUID->"762a49a1-0d3d-4c46-becd-2c736010cb2c"],
+Cell[CellGroupData[{
+Cell[531132, 9647, 161, 3, 53, "Subsection",ExpressionUUID->"d887eb80-e1a5-4876-ba95-1616cd49eb25"],
+Cell[531296, 9652, 371, 8, 41, "Input",ExpressionUUID->"35e872ef-2f79-48df-acbd-8a468077570c"]
 }, Open  ]]
-}, Open  ]],
-Cell[CellGroupData[{
-Cell[29312, 657, 221, 4, 67, "Section",ExpressionUUID->"f67d75fd-2f6b-4756-a970-00efa4889fa7"],
-Cell[29536, 663, 798, 14, 56, "Text",ExpressionUUID->"3e53d260-f9b8-49c0-a3c7-e40029e3dd23"],
-Cell[CellGroupData[{
-Cell[30359, 681, 951, 22, 62, "Input",ExpressionUUID->"876fe203-9412-4c08-a457-2360bdbeeddf"],
-Cell[31313, 705, 119078, 1970, 391, "Output",ExpressionUUID->"fe69836f-cf4a-440c-a2da-b7ff73a64864"]
-}, Open  ]],
-Cell[150406, 2678, 286, 6, 34, "Text",ExpressionUUID->"cc42df8c-e0f1-4300-b4a1-7c3a2f9c42e4"],
-Cell[CellGroupData[{
-Cell[150717, 2688, 2106, 36, 42, "Input",ExpressionUUID->"ab3b9135-6592-45f7-9479-5c066f0b61cf"],
-Cell[152826, 2726, 268527, 4494, 437, "Output",ExpressionUUID->"ca28c361-aa16-43c7-a535-b24abec568f3"]
-}, Open  ]],
-Cell[421368, 7223, 488, 10, 56, "Text",ExpressionUUID->"5094e6a1-b284-443f-ac78-2d2ed788b5ab"],
-Cell[CellGroupData[{
-Cell[421881, 7237, 1730, 36, 28, "Input",ExpressionUUID->"a18adf5f-614a-44f1-a5a9-9421edd23ce1"],
-Cell[423614, 7275, 25680, 596, 243, "Output",ExpressionUUID->"8932f375-b5ee-4034-9a07-a0d1c8693fde"]
-}, Open  ]],
-Cell[CellGroupData[{
-Cell[449331, 7876, 752, 16, 28, "Input",ExpressionUUID->"e0c49f8e-5100-424f-a245-e5423e88d5e5"],
-Cell[450086, 7894, 1240, 29, 49, "Output",ExpressionUUID->"53158f21-bd5d-4a42-baca-60eb88015318"]
-}, Open  ]],
-Cell[451341, 7926, 1737, 27, 166, "Text",ExpressionUUID->"4f352dec-f0ce-4773-9277-bd47368414ff"],
-Cell[453081, 7955, 1722, 38, 42, "Input",ExpressionUUID->"bbba844f-fc64-4770-9188-b3883c83ab1d"],
-Cell[454806, 7995, 267, 6, 34, "Text",ExpressionUUID->"c38bf303-6974-4541-8938-806972fe358c"],
-Cell[CellGroupData[{
-Cell[455098, 8005, 211, 3, 28, "Input",ExpressionUUID->"b564d4d8-5a54-48ad-8208-5999696fcdf7"],
-Cell[455312, 8010, 35343, 724, 459, "Output",ExpressionUUID->"1b9050cf-67f7-499d-b243-40ffa42ba52e"]
-}, Open  ]],
-Cell[CellGroupData[{
-Cell[490692, 8739, 757, 15, 28, "Input",ExpressionUUID->"d5c95bff-48d1-4224-bde9-573ca2b05dcd"],
-Cell[491452, 8756, 1166, 27, 49, "Output",ExpressionUUID->"22478505-a6f0-4f1a-9167-f2e79843cbfa"]
-}, Open  ]],
-Cell[492633, 8786, 300, 7, 34, "Text",ExpressionUUID->"f6f8deea-089c-431a-8a24-4259fcb0548d"]
 }, Open  ]]
 }, Open  ]]
 }
