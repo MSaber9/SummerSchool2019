@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       161,          7]
-NotebookDataLength[     38517,        964]
-NotebookOptionsPosition[     35109,        900]
-NotebookOutlinePosition[     35451,        915]
-CellTagsIndexPosition[     35408,        912]
+NotebookDataLength[     39114,        978]
+NotebookOptionsPosition[     35518,        912]
+NotebookOutlinePosition[     35860,        927]
+CellTagsIndexPosition[     35817,        924]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -896,7 +896,19 @@ In[40]:=",ExpressionUUID->"eba1669b-e9aa-42a6-b11c-624aa9ef5eed"],
 Cell[BoxData["$Failed"], "Output",
  CellChangeTimes->{3.771157579561392*^9},
  CellLabel->"Out[40]=",ExpressionUUID->"22a9c347-b895-437f-bc71-e8e61f0d8f9b"]
-}, Open  ]]
+}, Open  ]],
+
+Cell[BoxData["NeuralNetworks"], "Input",
+ CellChangeTimes->{{3.7711641092658925`*^9, 
+  3.7711641155981483`*^9}},ExpressionUUID->"c05af230-58c4-497d-bd6b-\
+5fb4a478de7a"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"Accumulate", "[", "newdiffList", "]"}], "//", 
+  "ListAnimate"}]], "Input",
+ CellChangeTimes->{3.7711651938633265`*^9},
+ CellLabel->"In[15]:=",ExpressionUUID->"44edae1e-7068-4af6-8dfa-0a098ae92d3e"]
 },
 WindowSize->{1520, 771},
 WindowMargins->{{0, Automatic}, {Automatic, 0}},
@@ -965,7 +977,9 @@ Cell[CellGroupData[{
 Cell[33988, 871, 388, 8, 28, "Input",ExpressionUUID->"c8868fd6-b032-410c-89a8-7f498bd534af"],
 Cell[34379, 881, 556, 12, 21, "Message",ExpressionUUID->"eba1669b-e9aa-42a6-b11c-624aa9ef5eed"],
 Cell[34938, 895, 155, 2, 32, "Output",ExpressionUUID->"22a9c347-b895-437f-bc71-e8e61f0d8f9b"]
-}, Open  ]]
+}, Open  ]],
+Cell[35108, 900, 170, 3, 28, "Input",ExpressionUUID->"c05af230-58c4-497d-bd6b-5fb4a478de7a"],
+Cell[35281, 905, 233, 5, 28, "Input",ExpressionUUID->"44edae1e-7068-4af6-8dfa-0a098ae92d3e"]
 }
 ]
 *)
