@@ -1,0 +1,5 @@
+Monitoring the development and spread of cities
+
+We will monitor the development of certain cities and check the directions of spreading. First we will aggregate data at hand, which will be satellite and investigate available methods to obtain it. We will use statistical models to predict the future development and direction of spread for certain areas.
+
+We were able to collect satellite images in two methods, and showed how we can use them in order to predict the next urban or overall development. We destined a customized model that is able to produce results using small datasets. 
